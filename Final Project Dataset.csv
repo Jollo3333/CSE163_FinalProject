@@ -1,0 +1,501 @@
+﻿Rank,Major,Degree Type,Early Career Pay,Mid-Career Pay,% High Meaning
+Rank:1,Major:Petroleum Engineering,Degree Type:Bachelors,"Early Career Pay:$92,300","Mid-Career Pay:$182,000",% High Meaning:69%
+Rank:2,Major:Electrical Engineering & Computer Science (EECS),Degree Type:Bachelors,"Early Career Pay:$101,200","Mid-Career Pay:$152,300",% High Meaning:46%
+Rank:3,Major:Applied Economics and Management,Degree Type:Bachelors,"Early Career Pay:$60,900","Mid-Career Pay:$139,600",% High Meaning:67%
+Rank:3,Major:Operations Research,Degree Type:Bachelors,"Early Career Pay:$78,400","Mid-Career Pay:$139,600",% High Meaning:52%
+Rank:5,Major:Public Accounting,Degree Type:Bachelors,"Early Career Pay:$60,000","Mid-Career Pay:$138,800",% High Meaning:49%
+Rank:6,Major:Chemical Engineering/Materials Science & Engineering,Degree Type:Bachelors,"Early Career Pay:$74,500","Mid-Career Pay:$137,800",% High Meaning:60%
+Rank:7,Major:Quantitative Business Analysis,Degree Type:Bachelors,"Early Career Pay:$67,900","Mid-Career Pay:$136,200",% High Meaning:55%
+Rank:8,Major:Pharmacy,Degree Type:Bachelors,"Early Career Pay:$66,300","Mid-Career Pay:$133,200",% High Meaning:79%
+Rank:9,Major:Aeronautics & Astronautics,Degree Type:Bachelors,"Early Career Pay:$74,000","Mid-Career Pay:$133,100",% High Meaning:60%
+Rank:10,Major:Systems Engineering,Degree Type:Bachelors,"Early Career Pay:$74,000","Mid-Career Pay:$132,900",% High Meaning:54%
+Rank:11,Major:Electrical Power Engineering,Degree Type:Bachelors,"Early Career Pay:$73,100","Mid-Career Pay:$130,700",% High Meaning:67%
+Rank:12,Major:Actuarial Mathematics,Degree Type:Bachelors,"Early Career Pay:$61,900","Mid-Career Pay:$130,500",% High Meaning:50%
+Rank:13,Major:Aerospace Studies,Degree Type:Bachelors,"Early Career Pay:$50,300","Mid-Career Pay:$130,300",% High Meaning:-
+Rank:14,Major:Chemical Engineering,Degree Type:Bachelors,"Early Career Pay:$73,500","Mid-Career Pay:$128,900",% High Meaning:56%
+Rank:15,Major:Actuarial Science,Degree Type:Bachelors,"Early Career Pay:$64,700","Mid-Career Pay:$128,700",% High Meaning:42%
+Rank:16,Major:Information & Computer Science,Degree Type:Bachelors,"Early Career Pay:$70,300","Mid-Career Pay:$127,600",% High Meaning:60%
+Rank:17,Major:Aeronautical Engineering,Degree Type:Bachelors,"Early Career Pay:$71,600","Mid-Career Pay:$125,900",% High Meaning:64%
+Rank:18,Major:Operations & Information Systems Management,Degree Type:Bachelors,"Early Career Pay:$63,800","Mid-Career Pay:$125,100",% High Meaning:31%
+Rank:18,Major:Political Economy,Degree Type:Bachelors,"Early Career Pay:$58,200","Mid-Career Pay:$125,100",% High Meaning:34%
+Rank:20,Major:Marine Engineering,Degree Type:Bachelors,"Early Career Pay:$74,700","Mid-Career Pay:$125,000",% High Meaning:64%
+Rank:21,Major:Computer Systems Engineering,Degree Type:Bachelors,"Early Career Pay:$74,600","Mid-Career Pay:$124,800",% High Meaning:49%
+Rank:22,Major:Nuclear Engineering,Degree Type:Bachelors,"Early Career Pay:$73,100","Mid-Career Pay:$124,500",% High Meaning:63%
+Rank:23,Major:Computer Science (CS) & Engineering,Degree Type:Bachelors,"Early Career Pay:$74,000","Mid-Career Pay:$124,000",% High Meaning:44%
+Rank:24,Major:Corporate Accounting & Finance,Degree Type:Bachelors,"Early Career Pay:$61,200","Mid-Career Pay:$123,600",% High Meaning:57%
+Rank:25,Major:Electrical & Computer Engineering (ECE),Degree Type:Bachelors,"Early Career Pay:$73,900","Mid-Career Pay:$123,300",% High Meaning:49%
+Rank:26,Major:Computer Engineering (CE),Degree Type:Bachelors,"Early Career Pay:$74,600","Mid-Career Pay:$123,200",% High Meaning:46%
+Rank:27,Major:Econometrics,Degree Type:Bachelors,"Early Career Pay:$60,700","Mid-Career Pay:$123,000",% High Meaning:30%
+Rank:28,Major:Building Science,Degree Type:Bachelors,"Early Career Pay:$51,100","Mid-Career Pay:$122,500",% High Meaning:51%
+Rank:29,Major:Mechatronics,Degree Type:Bachelors,"Early Career Pay:$70,200","Mid-Career Pay:$122,300",% High Meaning:47%
+Rank:30,Major:Quantitative Economics,Degree Type:Bachelors,"Early Career Pay:$62,000","Mid-Career Pay:$121,900",% High Meaning:45%
+Rank:31,Major:Foreign Affairs,Degree Type:Bachelors,"Early Career Pay:$52,200","Mid-Career Pay:$121,800",% High Meaning:40%
+Rank:31,Major:Welding Engineering,Degree Type:Bachelors,"Early Career Pay:$76,900","Mid-Career Pay:$121,800",% High Meaning:44%
+Rank:33,Major:Economics and Mathematics,Degree Type:Bachelors,"Early Career Pay:$65,000","Mid-Career Pay:$121,400",% High Meaning:33%
+Rank:33,Major:Electrical Engineering (EE),Degree Type:Bachelors,"Early Career Pay:$71,800","Mid-Career Pay:$121,400",% High Meaning:55%
+Rank:35,Major:Cognitive Science,Degree Type:Bachelors,"Early Career Pay:$64,100","Mid-Career Pay:$121,100",% High Meaning:41%
+Rank:35,Major:Control Engineering,Degree Type:Bachelors,"Early Career Pay:$69,900","Mid-Career Pay:$121,100",% High Meaning:63%
+Rank:37,Major:Geophysics,Degree Type:Bachelors,"Early Career Pay:$56,900","Mid-Career Pay:$120,600",% High Meaning:46%
+Rank:37,Major:Pharmacology,Degree Type:Bachelors,"Early Career Pay:$55,000","Mid-Career Pay:$120,600",% High Meaning:71%
+Rank:39,Major:Instrumentation & Control Engineering,Degree Type:Bachelors,"Early Career Pay:$69,000","Mid-Career Pay:$120,500",% High Meaning:-
+Rank:40,Major:Computational & Applied Mathematics,Degree Type:Bachelors,"Early Career Pay:$69,700","Mid-Career Pay:$120,100",% High Meaning:43%
+Rank:40,Major:Marine Transportation Management,Degree Type:Bachelors,"Early Career Pay:$67,800","Mid-Career Pay:$120,100",% High Meaning:47%
+Rank:42,Major:Aerospace Engineering,Degree Type:Bachelors,"Early Career Pay:$70,700","Mid-Career Pay:$119,800",% High Meaning:57%
+Rank:43,Major:Ocean Engineering (OE),Degree Type:Bachelors,"Early Career Pay:$65,100","Mid-Career Pay:$119,700",% High Meaning:51%
+Rank:44,Major:Astronomy,Degree Type:Bachelors,"Early Career Pay:$54,300","Mid-Career Pay:$119,600",% High Meaning:39%
+Rank:44,Major:Mechanical & Aeronautical Engineering,Degree Type:Bachelors,"Early Career Pay:$66,900","Mid-Career Pay:$119,600",% High Meaning:60%
+Rank:46,Major:Chemical & Biomolecular Engineering,Degree Type:Bachelors,"Early Career Pay:$74,000","Mid-Career Pay:$118,700",% High Meaning:48%
+Rank:47,Major:Computer Science (CS) & Mathematics,Degree Type:Bachelors,"Early Career Pay:$66,800","Mid-Career Pay:$118,500",% High Meaning:43%
+Rank:48,Major:Bioscience,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$118,300",% High Meaning:-
+Rank:49,Major:Electrical & Electronics Engineering (EEE),Degree Type:Bachelors,"Early Career Pay:$71,300","Mid-Career Pay:$118,100",% High Meaning:55%
+Rank:50,Major:Metallurgical Engineering,Degree Type:Bachelors,"Early Career Pay:$79,100","Mid-Career Pay:$117,700",% High Meaning:55%
+Rank:51,Major:Aeronautical/Aerospace Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$73,400","Mid-Career Pay:$117,500",% High Meaning:58%
+Rank:51,Major:Materials Engineering,Degree Type:Bachelors,"Early Career Pay:$69,100","Mid-Career Pay:$117,500",% High Meaning:48%
+Rank:53,Major:Accounting & Economics,Degree Type:Bachelors,"Early Career Pay:$61,600","Mid-Career Pay:$117,400",% High Meaning:43%
+Rank:54,Major:Industrial & Systems Engineering,Degree Type:Bachelors,"Early Career Pay:$69,900","Mid-Career Pay:$117,300",% High Meaning:49%
+Rank:55,Major:Optical Science & Engineering,Degree Type:Bachelors,"Early Career Pay:$67,600","Mid-Career Pay:$117,100",% High Meaning:65%
+Rank:56,Major:Computer Science (CS),Degree Type:Bachelors,"Early Career Pay:$70,700","Mid-Career Pay:$116,500",% High Meaning:42%
+Rank:57,Major:Biomedical Engineering (BME),Degree Type:Bachelors,"Early Career Pay:$67,700","Mid-Career Pay:$116,300",% High Meaning:72%
+Rank:58,Major:Materials Science,Degree Type:Bachelors,"Early Career Pay:$62,700","Mid-Career Pay:$116,200",% High Meaning:-
+Rank:59,Major:Electronics & Communications Engineering,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$116,100",% High Meaning:55%
+Rank:59,Major:Mining Engineering,Degree Type:Bachelors,"Early Career Pay:$75,200","Mid-Career Pay:$116,100",% High Meaning:70%
+Rank:61,Major:Engineering,Degree Type:Bachelors,"Early Career Pay:$66,500","Mid-Career Pay:$116,000",% High Meaning:59%
+Rank:62,Major:Applied Mathematics,Degree Type:Bachelors,"Early Career Pay:$64,400","Mid-Career Pay:$115,500",% High Meaning:39%
+Rank:62,Major:Integrated Science & Technology,Degree Type:Bachelors,"Early Career Pay:$62,500","Mid-Career Pay:$115,500",% High Meaning:56%
+Rank:64,Major:Petroleum Land Management,Degree Type:Bachelors,"Early Career Pay:$60,600","Mid-Career Pay:$115,400",% High Meaning:70%
+Rank:65,Major:Bioengineering (BioE),Degree Type:Bachelors,"Early Career Pay:$67,400","Mid-Career Pay:$115,000",% High Meaning:67%
+Rank:66,Major:Software Engineering,Degree Type:Bachelors,"Early Career Pay:$71,100","Mid-Career Pay:$114,700",% High Meaning:42%
+Rank:67,Major:Operations Management & Information Systems,Degree Type:Bachelors,"Early Career Pay:$61,900","Mid-Career Pay:$114,500",% High Meaning:39%
+Rank:68,Major:Statistics,Degree Type:Bachelors,"Early Career Pay:$63,700","Mid-Career Pay:$114,400",% High Meaning:42%
+Rank:69,Major:Business Analysis,Degree Type:Bachelors,"Early Career Pay:$59,200","Mid-Career Pay:$114,300",% High Meaning:49%
+Rank:69,Major:Computer & Information Science,Degree Type:Bachelors,"Early Career Pay:$60,100","Mid-Career Pay:$114,300",% High Meaning:55%
+Rank:71,Major:Physics,Degree Type:Bachelors,"Early Career Pay:$62,300","Mid-Career Pay:$113,800",% High Meaning:49%
+Rank:72,Major:Physics & Mathematics,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$113,600",% High Meaning:47%
+Rank:73,Major:Physics & Astronomy,Degree Type:Bachelors,"Early Career Pay:$54,000","Mid-Career Pay:$112,900",% High Meaning:43%
+Rank:74,Major:Construction Engineering Management,Degree Type:Bachelors,"Early Career Pay:$64,800","Mid-Career Pay:$112,700",% High Meaning:55%
+Rank:75,Major:Physician Assistant Studies,Degree Type:Bachelors,"Early Career Pay:$92,900","Mid-Career Pay:$112,200",% High Meaning:86%
+Rank:76,Major:Mechanical Engineering (ME),Degree Type:Bachelors,"Early Career Pay:$67,600","Mid-Career Pay:$111,500",% High Meaning:51%
+Rank:77,Major:Industrial Engineering (IE),Degree Type:Bachelors,"Early Career Pay:$68,300","Mid-Career Pay:$111,400",% High Meaning:45%
+Rank:78,Major:Entrepreneurship & Marketing,Degree Type:Bachelors,"Early Career Pay:$48,500","Mid-Career Pay:$111,100",% High Meaning:49%
+Rank:78,Major:Engineering Science,Degree Type:Bachelors,"Early Career Pay:$64,700","Mid-Career Pay:$111,100",% High Meaning:45%
+Rank:78,Major:International Business & Finance,Degree Type:Bachelors,"Early Career Pay:$57,700","Mid-Career Pay:$111,100",% High Meaning:42%
+Rank:78,Major:Materials Science & Engineering,Degree Type:Bachelors,"Early Career Pay:$69,200","Mid-Career Pay:$111,100",% High Meaning:47%
+Rank:82,Major:Ceramic Engineering,Degree Type:Bachelors,"Early Career Pay:$66,300","Mid-Career Pay:$110,900",% High Meaning:45%
+Rank:82,Major:International Economics,Degree Type:Bachelors,"Early Career Pay:$54,600","Mid-Career Pay:$110,900",% High Meaning:49%
+Rank:84,Major:Information & Decision Sciences,Degree Type:Bachelors,"Early Career Pay:$60,600","Mid-Career Pay:$110,800",% High Meaning:37%
+Rank:85,Major:Finance & Marketing,Degree Type:Bachelors,"Early Career Pay:$53,400","Mid-Career Pay:$110,700",% High Meaning:45%
+Rank:86,Major:Telecommunications Engineering,Degree Type:Bachelors,"Early Career Pay:$59,800","Mid-Career Pay:$110,600",% High Meaning:43%
+Rank:87,Major:Business & Economics,Degree Type:Bachelors,"Early Career Pay:$56,800","Mid-Career Pay:$110,500",% High Meaning:44%
+Rank:88,Major:Mathematics & Statistics,Degree Type:Bachelors,"Early Career Pay:$59,800","Mid-Career Pay:$110,000",% High Meaning:42%
+Rank:89,Major:Paper Science,Degree Type:Bachelors,"Early Career Pay:$72,400","Mid-Career Pay:$109,900",% High Meaning:38%
+Rank:90,Major:Electronics Engineering,Degree Type:Bachelors,"Early Career Pay:$67,600","Mid-Career Pay:$109,700",% High Meaning:61%
+Rank:90,Major:Engineering Physics,Degree Type:Bachelors,"Early Career Pay:$66,700","Mid-Career Pay:$109,700",% High Meaning:48%
+Rank:90,Major:Industrial Distribution,Degree Type:Bachelors,"Early Career Pay:$60,700","Mid-Career Pay:$109,700",% High Meaning:49%
+Rank:93,Major:Economics,Degree Type:Bachelors,"Early Career Pay:$58,200","Mid-Career Pay:$109,400",% High Meaning:41%
+Rank:94,Major:Energy Management,Degree Type:Bachelors,"Early Career Pay:$64,000","Mid-Career Pay:$109,200",% High Meaning:66%
+Rank:94,Major:Structural Engineering (SE),Degree Type:Bachelors,"Early Career Pay:$64,300","Mid-Career Pay:$109,200",% High Meaning:66%
+Rank:96,Major:Managerial Economics,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$109,100",% High Meaning:41%
+Rank:97,Major:Automotive Engineering,Degree Type:Bachelors,"Early Career Pay:$60,500","Mid-Career Pay:$108,700",% High Meaning:-
+Rank:97,Major:Business & Information Technology (IT),Degree Type:Bachelors,"Early Career Pay:$58,200","Mid-Career Pay:$108,700",% High Meaning:46%
+Rank:97,Major:Japanese Language,Degree Type:Bachelors,"Early Career Pay:$50,000","Mid-Career Pay:$108,700",% High Meaning:41%
+Rank:100,Major:Japanese Studies,Degree Type:Bachelors,"Early Career Pay:$49,200","Mid-Career Pay:$108,500",% High Meaning:22%
+Rank:101,Major:Finance & Economics,Degree Type:Bachelors,"Early Career Pay:$59,800","Mid-Career Pay:$108,100",% High Meaning:42%
+Rank:102,Major:Management Information Systems (MIS),Degree Type:Bachelors,"Early Career Pay:$61,200","Mid-Career Pay:$107,800",% High Meaning:43%
+Rank:103,Major:Pharmaceutical Sciences (PS),Degree Type:Bachelors,"Early Career Pay:$50,200","Mid-Career Pay:$107,700",% High Meaning:69%
+Rank:104,Major:Mechanical,Degree Type:Bachelors,"Early Career Pay:$66,800","Mid-Career Pay:$107,600",% High Meaning:55%
+Rank:105,Major:Applied Physics,Degree Type:Bachelors,"Early Career Pay:$63,800","Mid-Career Pay:$107,500",% High Meaning:56%
+Rank:105,Major:Information Management,Degree Type:Bachelors,"Early Career Pay:$61,300","Mid-Career Pay:$107,500",% High Meaning:42%
+Rank:107,Major:Aeronautical Science & Engineering,Degree Type:Bachelors,"Early Career Pay:$54,300","Mid-Career Pay:$107,100",% High Meaning:63%
+Rank:108,Major:Construction Project Management,Degree Type:Bachelors,"Early Career Pay:$57,400","Mid-Career Pay:$107,000",% High Meaning:59%
+Rank:108,Major:Packaging Science,Degree Type:Bachelors,"Early Career Pay:$66,800","Mid-Career Pay:$107,000",% High Meaning:37%
+Rank:110,Major:Industrial Engineering & Management,Degree Type:Bachelors,"Early Career Pay:$63,200","Mid-Career Pay:$106,900",% High Meaning:57%
+Rank:111,Major:Asian Studies,Degree Type:Bachelors,"Early Career Pay:$44,000","Mid-Career Pay:$106,400",% High Meaning:39%
+Rank:111,Major:Management Science,Degree Type:Bachelors,"Early Career Pay:$60,500","Mid-Career Pay:$106,400",% High Meaning:41%
+Rank:113,Major:Accounting & Taxation,Degree Type:Bachelors,"Early Career Pay:$53,300","Mid-Career Pay:$105,700",% High Meaning:43%
+Rank:114,Major:Manufacturing Engineering,Degree Type:Bachelors,"Early Career Pay:$65,800","Mid-Career Pay:$105,600",% High Meaning:48%
+Rank:115,Major:Astrophysics,Degree Type:Bachelors,"Early Career Pay:$64,100","Mid-Career Pay:$105,400",% High Meaning:65%
+Rank:116,Major:Engineering Management,Degree Type:Bachelors,"Early Career Pay:$65,800","Mid-Career Pay:$105,200",% High Meaning:55%
+Rank:117,Major:Business Economics,Degree Type:Bachelors,"Early Career Pay:$54,900","Mid-Career Pay:$105,100",% High Meaning:42%
+Rank:117,Major:Information Sciences and Technology,Degree Type:Bachelors,"Early Career Pay:$60,700","Mid-Career Pay:$105,100",% High Meaning:40%
+Rank:119,Major:Information Systems Management,Degree Type:Bachelors,"Early Career Pay:$57,600","Mid-Career Pay:$104,800",% High Meaning:44%
+Rank:120,Major:Finance & Investments,Degree Type:Bachelors,"Early Career Pay:$60,500","Mid-Career Pay:$104,400",% High Meaning:41%
+Rank:121,Major:Environmental Health & Safety Management,Degree Type:Bachelors,"Early Career Pay:$58,300","Mid-Career Pay:$104,200",% High Meaning:64%
+Rank:121,Major:Rhetoric,Degree Type:Bachelors,"Early Career Pay:$49,400","Mid-Career Pay:$104,200",% High Meaning:46%
+Rank:121,Major:Strategic Management,Degree Type:Bachelors,"Early Career Pay:$62,800","Mid-Career Pay:$104,200",% High Meaning:45%
+Rank:124,Major:Robotics & Automation,Degree Type:Bachelors,"Early Career Pay:$66,500","Mid-Career Pay:$104,100",% High Meaning:-
+Rank:125,Major:Building Construction (BC),Degree Type:Bachelors,"Early Career Pay:$63,600","Mid-Career Pay:$104,000",% High Meaning:52%
+Rank:126,Major:Accounting & Computer Systems,Degree Type:Bachelors,"Early Career Pay:$60,200","Mid-Career Pay:$103,800",% High Meaning:42%
+Rank:126,Major:Construction Science,Degree Type:Bachelors,"Early Career Pay:$64,000","Mid-Career Pay:$103,800",% High Meaning:63%
+Rank:128,Major:Polymer Science & Engineering,Degree Type:Bachelors,"Early Career Pay:$69,200","Mid-Career Pay:$103,700",% High Meaning:27%
+Rank:129,Major:Computing,Degree Type:Bachelors,"Early Career Pay:$59,800","Mid-Career Pay:$103,500",% High Meaning:50%
+Rank:129,Major:Information Security & Assurance,Degree Type:Bachelors,"Early Career Pay:$60,600","Mid-Career Pay:$103,500",% High Meaning:41%
+Rank:129,Major:Civil Engineering (CE),Degree Type:Bachelors,"Early Career Pay:$61,700","Mid-Career Pay:$103,500",% High Meaning:65%
+Rank:132,Major:Mathematics,Degree Type:Bachelors,"Early Career Pay:$59,600","Mid-Career Pay:$103,400",% High Meaning:45%
+Rank:132,Major:Government,Degree Type:Bachelors,"Early Career Pay:$52,200","Mid-Career Pay:$103,400",% High Meaning:49%
+Rank:134,Major:Biochemistry & Molecular Biology,Degree Type:Bachelors,"Early Career Pay:$50,500","Mid-Career Pay:$103,300",% High Meaning:70%
+Rank:134,Major:Information Technology Management,Degree Type:Bachelors,"Early Career Pay:$59,300","Mid-Career Pay:$103,300",% High Meaning:48%
+Rank:136,Major:Finance & Real Estate,Degree Type:Bachelors,"Early Career Pay:$58,600","Mid-Career Pay:$103,200",% High Meaning:45%
+Rank:137,Major:Construction Engineering,Degree Type:Bachelors,"Early Career Pay:$64,500","Mid-Career Pay:$103,100",% High Meaning:57%
+Rank:138,Major:Business Logistics & Transportation,Degree Type:Bachelors,"Early Career Pay:$54,900","Mid-Career Pay:$102,900",% High Meaning:48%
+Rank:138,Major:Construction Management,Degree Type:Bachelors,"Early Career Pay:$59,700","Mid-Career Pay:$102,900",% High Meaning:58%
+Rank:140,Major:Aeronautical Science,Degree Type:Bachelors,"Early Career Pay:$55,300","Mid-Career Pay:$102,800",% High Meaning:57%
+Rank:141,Major:Computer Management Information Systems (CMIS),Degree Type:Bachelors,"Early Career Pay:$54,300","Mid-Career Pay:$102,600",% High Meaning:46%
+Rank:142,Major:Software Applications & Programming,Degree Type:Bachelors,"Early Career Pay:$56,400","Mid-Career Pay:$102,500",% High Meaning:37%
+Rank:143,Major:Financial Economics,Degree Type:Bachelors,"Early Career Pay:$60,600","Mid-Career Pay:$102,300",% High Meaning:44%
+Rank:144,Major:Marketing & International Business,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$102,200",% High Meaning:35%
+Rank:145,Major:Informatics,Degree Type:Bachelors,"Early Career Pay:$66,200","Mid-Career Pay:$101,900",% High Meaning:41%
+Rank:145,Major:Medicine,Degree Type:Bachelors,"Early Career Pay:$75,500","Mid-Career Pay:$101,900",% High Meaning:84%
+Rank:147,Major:Civil & Environmental Engineering,Degree Type:Bachelors,"Early Career Pay:$61,800","Mid-Career Pay:$101,800",% High Meaning:67%
+Rank:148,Major:Atmospheric Science,Degree Type:Bachelors,"Early Career Pay:$47,300","Mid-Career Pay:$101,600",% High Meaning:55%
+Rank:149,Major:Environmental Engineering,Degree Type:Bachelors,"Early Career Pay:$59,500","Mid-Career Pay:$101,300",% High Meaning:64%
+Rank:150,Major:European Studies,Degree Type:Bachelors,"Early Career Pay:$45,200","Mid-Career Pay:$101,200",% High Meaning:47%
+Rank:150,Major:Nuclear Engineering Technology (NET),Degree Type:Bachelors,"Early Career Pay:$78,200","Mid-Career Pay:$101,200",% High Meaning:60%
+Rank:152,Major:Industrial Management,Degree Type:Bachelors,"Early Career Pay:$55,100","Mid-Career Pay:$101,000",% High Meaning:55%
+Rank:152,Major:Information Systems (IS),Degree Type:Bachelors,"Early Career Pay:$59,900","Mid-Career Pay:$101,000",% High Meaning:45%
+Rank:154,Major:Sales & Business Marketing,Degree Type:Bachelors,"Early Career Pay:$52,600","Mid-Career Pay:$100,800",% High Meaning:49%
+Rank:155,Major:Business Computer Information Systems (BCIS),Degree Type:Bachelors,"Early Career Pay:$60,200","Mid-Career Pay:$100,700",% High Meaning:36%
+Rank:155,Major:Organic Chemistry,Degree Type:Bachelors,"Early Career Pay:$46,000","Mid-Career Pay:$100,700",% High Meaning:-
+Rank:157,Major:Business Operations,Degree Type:Bachelors,"Early Career Pay:$60,500","Mid-Career Pay:$100,600",% High Meaning:-
+Rank:158,Major:Business Computer Science,Degree Type:Bachelors,"Early Career Pay:$50,200","Mid-Career Pay:$100,500",% High Meaning:-
+Rank:159,Major:Business Finance,Degree Type:Bachelors,"Early Career Pay:$54,600","Mid-Career Pay:$100,300",% High Meaning:43%
+Rank:159,Major:Safety Science,Degree Type:Bachelors,"Early Career Pay:$58,800","Mid-Career Pay:$100,300",% High Meaning:-
+Rank:161,Major:Plastics Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$63,800","Mid-Career Pay:$100,200",% High Meaning:31%
+Rank:162,Major:Business Information Systems,Degree Type:Bachelors,"Early Career Pay:$61,700","Mid-Career Pay:$100,100",% High Meaning:44%
+Rank:163,Major:International Management,Degree Type:Bachelors,"Early Career Pay:$49,300","Mid-Career Pay:$99,900",% High Meaning:52%
+Rank:164,Major:Finance,Degree Type:Bachelors,"Early Career Pay:$56,800","Mid-Career Pay:$99,800",% High Meaning:41%
+Rank:165,Major:Agricultural Economics,Degree Type:Bachelors,"Early Career Pay:$53,000","Mid-Career Pay:$99,700",% High Meaning:59%
+Rank:166,Major:Economics & Political Science,Degree Type:Bachelors,"Early Career Pay:$54,200","Mid-Career Pay:$99,400",% High Meaning:50%
+Rank:166,Major:Interactive Media,Degree Type:Bachelors,"Early Career Pay:$50,200","Mid-Career Pay:$99,400",% High Meaning:32%
+Rank:168,Major:Computer Science & Information Technology,Degree Type:Bachelors,"Early Career Pay:$63,100","Mid-Career Pay:$99,100",% High Meaning:49%
+Rank:169,Major:Agricultural Engineering (AE),Degree Type:Bachelors,"Early Career Pay:$60,400","Mid-Career Pay:$99,000",% High Meaning:61%
+Rank:169,Major:Consumer Economics,Degree Type:Bachelors,"Early Career Pay:$51,200","Mid-Career Pay:$99,000",% High Meaning:38%
+Rank:171,Major:International Business,Degree Type:Bachelors,"Early Career Pay:$52,100","Mid-Career Pay:$98,900",% High Meaning:40%
+Rank:172,Major:Chinese Language,Degree Type:Bachelors,"Early Career Pay:$51,200","Mid-Career Pay:$98,700",% High Meaning:47%
+Rank:172,Major:Financial Planning,Degree Type:Bachelors,"Early Career Pay:$50,400","Mid-Career Pay:$98,700",% High Meaning:57%
+Rank:174,Major:Corporate Finance,Degree Type:Bachelors,"Early Career Pay:$61,000","Mid-Career Pay:$98,500",% High Meaning:43%
+Rank:175,Major:Architectural Engineering,Degree Type:Bachelors,"Early Career Pay:$62,400","Mid-Career Pay:$98,400",% High Meaning:58%
+Rank:176,Major:Building Construction Management,Degree Type:Bachelors,"Early Career Pay:$58,600","Mid-Career Pay:$98,000",% High Meaning:59%
+Rank:177,Major:Engineering Technology (ET),Degree Type:Bachelors,"Early Career Pay:$55,300","Mid-Career Pay:$97,900",% High Meaning:50%
+Rank:177,Major:Network Engineering,Degree Type:Bachelors,"Early Career Pay:$57,900","Mid-Career Pay:$97,900",% High Meaning:46%
+Rank:179,Major:Computer Information Systems (CIS),Degree Type:Bachelors,"Early Career Pay:$56,900","Mid-Career Pay:$97,800",% High Meaning:45%
+Rank:179,Major:International Marketing,Degree Type:Bachelors,"Early Career Pay:$56,200","Mid-Career Pay:$97,800",% High Meaning:18%
+Rank:179,Major:Psychobiology,Degree Type:Bachelors,"Early Career Pay:$45,400","Mid-Career Pay:$97,800",% High Meaning:64%
+Rank:182,Major:Electrical Engineering Technology (EET),Degree Type:Bachelors,"Early Career Pay:$63,100","Mid-Career Pay:$97,700",% High Meaning:48%
+Rank:182,Major:Computer Information Systems,Degree Type:Bachelors,"Early Career Pay:$55,700","Mid-Career Pay:$97,700",% High Meaning:43%
+Rank:182,Major:Real Estate,Degree Type:Bachelors,"Early Career Pay:$56,400","Mid-Career Pay:$97,700",% High Meaning:38%
+Rank:182,Major:Molecular Biology,Degree Type:Bachelors,"Early Career Pay:$50,500","Mid-Career Pay:$97,700",% High Meaning:70%
+Rank:186,Major:Operations Management (OM),Degree Type:Bachelors,"Early Career Pay:$58,000","Mid-Career Pay:$97,300",% High Meaning:43%
+Rank:187,Major:Cybersecurity,Degree Type:Bachelors,"Early Career Pay:$63,000","Mid-Career Pay:$97,200",% High Meaning:55%
+Rank:187,Major:Manufacturing,Degree Type:Bachelors,"Early Career Pay:$54,100","Mid-Career Pay:$97,200",% High Meaning:56%
+Rank:189,Major:Construction Trades,Degree Type:Bachelors,"Early Career Pay:$56,300","Mid-Career Pay:$97,100",% High Meaning:57%
+Rank:190,Major:International Relations,Degree Type:Bachelors,"Early Career Pay:$49,900","Mid-Career Pay:$96,800",% High Meaning:49%
+Rank:190,Major:Politics,Degree Type:Bachelors,"Early Career Pay:$50,600","Mid-Career Pay:$96,800",% High Meaning:53%
+Rank:192,Major:Economics & Management,Degree Type:Bachelors,"Early Career Pay:$52,700","Mid-Career Pay:$96,600",% High Meaning:-
+Rank:193,Major:Industrial Hygiene,Degree Type:Bachelors,"Early Career Pay:$55,800","Mid-Career Pay:$96,200",% High Meaning:55%
+Rank:194,Major:Software Development,Degree Type:Bachelors,"Early Career Pay:$61,000","Mid-Career Pay:$96,000",% High Meaning:44%
+Rank:194,Major:Telecommunications Management,Degree Type:Bachelors,"Early Career Pay:$49,800","Mid-Career Pay:$96,000",% High Meaning:46%
+Rank:196,Major:Supply Chain Management,Degree Type:Bachelors,"Early Career Pay:$59,000","Mid-Career Pay:$95,900",% High Meaning:41%
+Rank:197,Major:Mechanical Engineering Technology (MET),Degree Type:Bachelors,"Early Career Pay:$61,200","Mid-Career Pay:$95,800",% High Meaning:48%
+Rank:198,Major:Accounting & Auditing,Degree Type:Bachelors,"Early Career Pay:$55,400","Mid-Career Pay:$95,700",% High Meaning:42%
+Rank:198,Major:Network Security,Degree Type:Bachelors,"Early Career Pay:$57,500","Mid-Career Pay:$95,700",% High Meaning:47%
+Rank:200,Major:Entrepreneurship & Leadership,Degree Type:Bachelors,"Early Career Pay:$52,300","Mid-Career Pay:$95,600",% High Meaning:46%
+Rank:200,Major:Geological Engineering,Degree Type:Bachelors,"Early Career Pay:$59,100","Mid-Career Pay:$95,600",% High Meaning:57%
+Rank:202,Major:Product Design,Degree Type:Bachelors,"Early Career Pay:$58,600","Mid-Career Pay:$95,500",% High Meaning:40%
+Rank:203,Major:Electronics,Degree Type:Bachelors,"Early Career Pay:$57,000","Mid-Career Pay:$95,400",% High Meaning:61%
+Rank:203,Major:Food Marketing,Degree Type:Bachelors,"Early Career Pay:$54,500","Mid-Career Pay:$95,400",% High Meaning:25%
+Rank:203,Major:Safety Management,Degree Type:Bachelors,"Early Career Pay:$57,400","Mid-Career Pay:$95,400",% High Meaning:70%
+Rank:206,Major:German Studies,Degree Type:Bachelors,"Early Career Pay:$47,400","Mid-Career Pay:$95,300",% High Meaning:43%
+Rank:206,Major:Industrial & Labor Relations,Degree Type:Bachelors,"Early Career Pay:$63,800","Mid-Career Pay:$95,300",% High Meaning:51%
+Rank:208,Major:Agricultural Economics & Business,Degree Type:Bachelors,"Early Career Pay:$51,400","Mid-Career Pay:$95,200",% High Meaning:55%
+Rank:208,Major:Aviation Management,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$95,200",% High Meaning:53%
+Rank:210,Major:Biochemistry (BCH),Degree Type:Bachelors,"Early Career Pay:$47,500","Mid-Career Pay:$95,100",% High Meaning:60%
+Rank:211,Major:Computer Science (CS) & Business,Degree Type:Bachelors,"Early Career Pay:$60,800","Mid-Career Pay:$95,000",% High Meaning:40%
+Rank:211,Major:Construction Science & Management,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$95,000",% High Meaning:68%
+Rank:213,Major:Accounting & Finance,Degree Type:Bachelors,"Early Career Pay:$55,800","Mid-Career Pay:$94,900",% High Meaning:45%
+Rank:213,Major:Comparative Literature,Degree Type:Bachelors,"Early Career Pay:$44,600","Mid-Career Pay:$94,900",% High Meaning:45%
+Rank:213,Major:International & Comparative Politics,Degree Type:Bachelors,"Early Career Pay:$46,100","Mid-Career Pay:$94,900",% High Meaning:49%
+Rank:216,Major:East Asian Studies,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$94,800",% High Meaning:43%
+Rank:217,Major:Logistics & Supply Chain Management,Degree Type:Bachelors,"Early Career Pay:$56,200","Mid-Career Pay:$94,400",% High Meaning:46%
+Rank:217,Major:Russian & Eastern European Studies,Degree Type:Bachelors,"Early Career Pay:$50,800","Mid-Career Pay:$94,400",% High Meaning:-
+Rank:219,Major:Occupational Health and Safety,Degree Type:Bachelors,"Early Career Pay:$57,100","Mid-Career Pay:$94,300",% High Meaning:68%
+Rank:220,Major:Aviation,Degree Type:Bachelors,"Early Career Pay:$50,000","Mid-Career Pay:$94,000",% High Meaning:42%
+Rank:220,Major:Manufacturing Technology,Degree Type:Bachelors,"Early Career Pay:$57,100","Mid-Career Pay:$94,000",% High Meaning:45%
+Rank:222,Major:Physical Therapy,Degree Type:Bachelors,"Early Career Pay:$53,500","Mid-Career Pay:$93,900",% High Meaning:90%
+Rank:222,Major:Labor Relations,Degree Type:Bachelors,"Early Career Pay:$48,900","Mid-Career Pay:$93,900",% High Meaning:39%
+Rank:224,Major:Government & International Politics (GVIP),Degree Type:Bachelors,"Early Career Pay:$49,800","Mid-Career Pay:$93,800",% High Meaning:46%
+Rank:224,Major:Information Technology (IT),Degree Type:Bachelors,"Early Career Pay:$56,100","Mid-Career Pay:$93,800",% High Meaning:45%
+Rank:226,Major:City & Regional Planning,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$93,700",% High Meaning:70%
+Rank:226,Major:Information Science (IS),Degree Type:Bachelors,"Early Career Pay:$62,600","Mid-Career Pay:$93,700",% High Meaning:38%
+Rank:228,Major:Business & Marketing,Degree Type:Bachelors,"Early Career Pay:$47,800","Mid-Career Pay:$93,600",% High Meaning:44%
+Rank:229,Major:Agribusiness,Degree Type:Bachelors,"Early Career Pay:$48,000","Mid-Career Pay:$93,400",% High Meaning:53%
+Rank:229,Major:Management Studies,Degree Type:Bachelors,"Early Career Pay:$43,500","Mid-Career Pay:$93,400",% High Meaning:73%
+Rank:231,Major:Industrial Design (ID),Degree Type:Bachelors,"Early Career Pay:$52,100","Mid-Career Pay:$93,100",% High Meaning:41%
+Rank:232,Major:Chemistry,Degree Type:Bachelors,"Early Career Pay:$49,200","Mid-Career Pay:$93,000",% High Meaning:55%
+Rank:232,Major:Information Technology (IT) & Systems,Degree Type:Bachelors,"Early Career Pay:$58,600","Mid-Career Pay:$93,000",% High Meaning:47%
+Rank:232,Major:Environmental Health & Safety,Degree Type:Bachelors,"Early Career Pay:$54,500","Mid-Career Pay:$93,000",% High Meaning:67%
+Rank:235,Major:Electronics Engineering Technology (EET),Degree Type:Bachelors,"Early Career Pay:$61,600","Mid-Career Pay:$92,900",% High Meaning:53%
+Rank:235,Major:Organizational Behavior,Degree Type:Bachelors,"Early Career Pay:$54,000","Mid-Career Pay:$92,900",% High Meaning:49%
+Rank:237,Major:Analytical Chemistry,Degree Type:Bachelors,"Early Career Pay:$54,800","Mid-Career Pay:$92,800",% High Meaning:69%
+Rank:237,Major:Computer Engineering Technology (CET),Degree Type:Bachelors,"Early Career Pay:$60,100","Mid-Career Pay:$92,800",% High Meaning:48%
+Rank:237,Major:Food Science & Technology,Degree Type:Bachelors,"Early Career Pay:$50,200","Mid-Career Pay:$92,800",% High Meaning:49%
+Rank:240,Major:Project Management,Degree Type:Bachelors,"Early Career Pay:$54,100","Mid-Career Pay:$92,700",% High Meaning:54%
+Rank:241,Major:Technical & Scientific Communication,Degree Type:Bachelors,"Early Career Pay:$48,900","Mid-Career Pay:$92,400",% High Meaning:40%
+Rank:242,Major:Finance & Banking,Degree Type:Bachelors,"Early Career Pay:$52,600","Mid-Career Pay:$92,300",% High Meaning:51%
+Rank:243,Major:Hotel Administration,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$92,100",% High Meaning:43%
+Rank:243,Major:Mechanical Design,Degree Type:Bachelors,"Early Career Pay:$57,700","Mid-Career Pay:$92,100",% High Meaning:49%
+Rank:245,Major:Biomedical Sciences,Degree Type:Bachelors,"Early Career Pay:$41,200","Mid-Career Pay:$92,000",% High Meaning:70%
+Rank:246,Major:International Trade & Business,Degree Type:Bachelors,"Early Career Pay:$52,300","Mid-Career Pay:$91,900",% High Meaning:28%
+Rank:247,Major:Commerce Economics,Degree Type:Bachelors,"Early Career Pay:$51,200","Mid-Career Pay:$91,800",% High Meaning:31%
+Rank:248,Major:Latin American Studies,Degree Type:Bachelors,"Early Career Pay:$44,300","Mid-Career Pay:$91,700",% High Meaning:63%
+Rank:248,Major:Structural Design & Construction Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$66,500","Mid-Career Pay:$91,700",% High Meaning:46%
+Rank:248,Major:Civil Engineering Technology (CET),Degree Type:Bachelors,"Early Career Pay:$55,600","Mid-Career Pay:$91,700",% High Meaning:62%
+Rank:251,Major:Government & Politics,Degree Type:Bachelors,"Early Career Pay:$50,000","Mid-Career Pay:$91,500",% High Meaning:49%
+Rank:252,Major:Aviation Flight Science (AFL),Degree Type:Bachelors,"Early Career Pay:$49,900","Mid-Career Pay:$91,400",% High Meaning:45%
+Rank:252,Major:Business & Finance,Degree Type:Bachelors,"Early Career Pay:$52,800","Mid-Career Pay:$91,400",% High Meaning:49%
+Rank:252,Major:Marketing,Degree Type:Bachelors,"Early Career Pay:$49,200","Mid-Career Pay:$91,400",% High Meaning:39%
+Rank:255,Major:Applied Statistics,Degree Type:Bachelors,"Early Career Pay:$62,000","Mid-Career Pay:$91,300",% High Meaning:46%
+Rank:255,Major:Biopsychology,Degree Type:Bachelors,"Early Career Pay:$50,200","Mid-Career Pay:$91,300",% High Meaning:73%
+Rank:255,Major:Industrial Technology (IT),Degree Type:Bachelors,"Early Career Pay:$57,800","Mid-Career Pay:$91,300",% High Meaning:51%
+Rank:255,Major:Manufacturing Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$91,300",% High Meaning:52%
+Rank:259,Major:Music Production & Engineering,Degree Type:Bachelors,"Early Career Pay:$42,100","Mid-Career Pay:$91,100",% High Meaning:50%
+Rank:259,Major:Networks & Telecommunications,Degree Type:Bachelors,"Early Career Pay:$52,900","Mid-Career Pay:$91,100",% High Meaning:57%
+Rank:261,Major:Chemistry & Environmental Science,Degree Type:Bachelors,"Early Career Pay:$46,000","Mid-Career Pay:$91,000",% High Meaning:67%
+Rank:261,Major:Microbiology & Immunology,Degree Type:Bachelors,"Early Career Pay:$51,500","Mid-Career Pay:$91,000",% High Meaning:68%
+Rank:263,Major:Accounts,Degree Type:Bachelors,"Early Career Pay:$57,000","Mid-Career Pay:$90,900",% High Meaning:42%
+Rank:263,Major:Risk Management,Degree Type:Bachelors,"Early Career Pay:$59,600","Mid-Career Pay:$90,900",% High Meaning:33%
+Rank:265,Major:Environmental Science & Policy,Degree Type:Bachelors,"Early Career Pay:$47,300","Mid-Career Pay:$90,700",% High Meaning:60%
+Rank:266,Major:Dairy Science,Degree Type:Bachelors,"Early Career Pay:$49,500","Mid-Career Pay:$90,600",% High Meaning:72%
+Rank:266,Major:Sales & Marketing,Degree Type:Bachelors,"Early Career Pay:$48,500","Mid-Career Pay:$90,600",% High Meaning:44%
+Rank:268,Major:Welding Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$72,000","Mid-Career Pay:$90,400",% High Meaning:45%
+Rank:269,Major:Industrial Psychology,Degree Type:Bachelors,"Early Career Pay:$47,000","Mid-Career Pay:$90,200",% High Meaning:49%
+Rank:269,Major:Marketing & Management,Degree Type:Bachelors,"Early Career Pay:$47,200","Mid-Career Pay:$90,200",% High Meaning:44%
+Rank:269,Major:Transportation & Logistics Management,Degree Type:Bachelors,"Early Career Pay:$52,700","Mid-Career Pay:$90,200",% High Meaning:47%
+Rank:272,Major:Marketing Management,Degree Type:Bachelors,"Early Career Pay:$48,300","Mid-Career Pay:$90,100",% High Meaning:43%
+Rank:272,Major:Watershed Hydrology & Management,Degree Type:Bachelors,"Early Career Pay:$45,500","Mid-Career Pay:$90,100",% High Meaning:49%
+Rank:274,Major:Electromechanical Engineering,Degree Type:Bachelors,"Early Career Pay:$67,100","Mid-Career Pay:$90,000",% High Meaning:54%
+Rank:274,Major:Transportation,Degree Type:Bachelors,"Early Career Pay:$59,100","Mid-Career Pay:$90,000",% High Meaning:50%
+Rank:276,Major:Advertising Design,Degree Type:Bachelors,"Early Career Pay:$49,300","Mid-Career Pay:$89,700",% High Meaning:29%
+Rank:276,Major:Management & Finance,Degree Type:Bachelors,"Early Career Pay:$52,500","Mid-Career Pay:$89,700",% High Meaning:53%
+Rank:276,Major:Risk Management & Insurance,Degree Type:Bachelors,"Early Career Pay:$56,300","Mid-Career Pay:$89,700",% High Meaning:44%
+Rank:279,Major:Geology,Degree Type:Bachelors,"Early Career Pay:$48,200","Mid-Career Pay:$89,600",% High Meaning:55%
+Rank:280,Major:Information Assurance,Degree Type:Bachelors,"Early Career Pay:$55,600","Mid-Career Pay:$89,500",% High Meaning:58%
+Rank:280,Major:Political Science,Degree Type:Bachelors,"Early Career Pay:$47,900","Mid-Career Pay:$89,500",% High Meaning:48%
+Rank:282,Major:Philosophy,Degree Type:Bachelors,"Early Career Pay:$48,700","Mid-Career Pay:$89,400",% High Meaning:41%
+Rank:282,Major:Radiation Therapy,Degree Type:Bachelors,"Early Career Pay:$65,600","Mid-Career Pay:$89,400",% High Meaning:91%
+Rank:284,Major:Cell Biology,Degree Type:Bachelors,"Early Career Pay:$48,200","Mid-Career Pay:$89,300",% High Meaning:61%
+Rank:284,Major:French Literature,Degree Type:Bachelors,"Early Career Pay:$44,200","Mid-Career Pay:$89,300",% High Meaning:50%
+Rank:284,Major:Web Design & Development,Degree Type:Bachelors,"Early Career Pay:$50,600","Mid-Career Pay:$89,300",% High Meaning:46%
+Rank:284,Major:Meteorology,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$89,300",% High Meaning:60%
+Rank:288,Major:Biological Sciences,Degree Type:Bachelors,"Early Career Pay:$46,200","Mid-Career Pay:$89,200",% High Meaning:65%
+Rank:288,Major:Occupational Therapy (OT),Degree Type:Bachelors,"Early Career Pay:$55,100","Mid-Career Pay:$89,200",% High Meaning:90%
+Rank:290,Major:Environmental Policy Analysis & Planning,Degree Type:Bachelors,"Early Career Pay:$47,200","Mid-Career Pay:$89,100",% High Meaning:62%
+Rank:291,Major:Entrepreneurial Studies,Degree Type:Bachelors,"Early Career Pay:$46,700","Mid-Career Pay:$88,900",% High Meaning:35%
+Rank:291,Major:Financial Accounting,Degree Type:Bachelors,"Early Career Pay:$53,400","Mid-Career Pay:$88,900",% High Meaning:51%
+Rank:291,Major:Political Science/Public Law,Degree Type:Bachelors,"Early Career Pay:$43,900","Mid-Career Pay:$88,900",% High Meaning:61%
+Rank:291,Major:Quality Management,Degree Type:Bachelors,"Early Career Pay:$53,400","Mid-Career Pay:$88,900",% High Meaning:64%
+Rank:295,Major:Aeronautics,Degree Type:Bachelors,"Early Career Pay:$59,100","Mid-Career Pay:$88,800",% High Meaning:65%
+Rank:295,Major:Applied Computer Science,Degree Type:Bachelors,"Early Career Pay:$62,900","Mid-Career Pay:$88,800",% High Meaning:48%
+Rank:297,Major:Accounting,Degree Type:Bachelors,"Early Career Pay:$51,700","Mid-Career Pay:$88,700",% High Meaning:42%
+Rank:297,Major:Broadcasting Technology,Degree Type:Bachelors,"Early Career Pay:$40,000","Mid-Career Pay:$88,700",% High Meaning:-
+Rank:297,Major:Food Science,Degree Type:Bachelors,"Early Career Pay:$49,900","Mid-Career Pay:$88,700",% High Meaning:46%
+Rank:297,Major:Marketing & Communications,Degree Type:Bachelors,"Early Career Pay:$46,600","Mid-Career Pay:$88,700",% High Meaning:43%
+Rank:301,Major:Urban Planning,Degree Type:Bachelors,"Early Career Pay:$48,100","Mid-Career Pay:$88,500",% High Meaning:54%
+Rank:301,Major:Manufacturing Management,Degree Type:Bachelors,"Early Career Pay:$60,400","Mid-Career Pay:$88,500",% High Meaning:49%
+Rank:303,Major:Insurance,Degree Type:Bachelors,"Early Career Pay:$53,000","Mid-Career Pay:$88,400",% High Meaning:42%
+Rank:304,Major:Business Data Analysis,Degree Type:Bachelors,"Early Career Pay:$60,400","Mid-Career Pay:$88,300",% High Meaning:38%
+Rank:304,Major:Environmental Design,Degree Type:Bachelors,"Early Career Pay:$45,400","Mid-Career Pay:$88,300",% High Meaning:55%
+Rank:306,Major:Advertising,Degree Type:Bachelors,"Early Career Pay:$44,800","Mid-Career Pay:$88,200",% High Meaning:33%
+Rank:306,Major:Cinema Studies,Degree Type:Bachelors,"Early Career Pay:$45,400","Mid-Career Pay:$88,200",% High Meaning:32%
+Rank:306,Major:Financial Management,Degree Type:Bachelors,"Early Career Pay:$51,000","Mid-Career Pay:$88,200",% High Meaning:51%
+Rank:309,Major:Advertising & Marketing Communications,Degree Type:Bachelors,"Early Career Pay:$46,000","Mid-Career Pay:$88,100",% High Meaning:36%
+Rank:309,Major:Operations & Supply Chain Management,Degree Type:Bachelors,"Early Career Pay:$57,800","Mid-Career Pay:$88,100",% High Meaning:44%
+Rank:311,Major:Computer Information Management,Degree Type:Bachelors,"Early Career Pay:$46,800","Mid-Career Pay:$88,000",% High Meaning:62%
+Rank:312,Major:Global & International Studies,Degree Type:Bachelors,"Early Career Pay:$45,900","Mid-Career Pay:$87,800",% High Meaning:49%
+Rank:312,Major:Computing & Information Systems (CIS),Degree Type:Bachelors,"Early Career Pay:$50,800","Mid-Career Pay:$87,800",% High Meaning:42%
+Rank:312,Major:Architecture,Degree Type:Bachelors,"Early Career Pay:$48,300","Mid-Career Pay:$87,800",% High Meaning:55%
+Rank:315,Major:Environmental & Natural Resource Economics,Degree Type:Bachelors,"Early Career Pay:$49,100","Mid-Career Pay:$87,600",% High Meaning:60%
+Rank:316,Major:Labor Studies,Degree Type:Bachelors,"Early Career Pay:$44,100","Mid-Career Pay:$87,500",% High Meaning:49%
+Rank:317,Major:Aviation Technology,Degree Type:Bachelors,"Early Career Pay:$52,600","Mid-Career Pay:$87,400",% High Meaning:52%
+Rank:317,Major:Social Ecology,Degree Type:Bachelors,"Early Career Pay:$46,700","Mid-Career Pay:$87,400",% High Meaning:60%
+Rank:319,Major:Classics,Degree Type:Bachelors,"Early Career Pay:$45,000","Mid-Career Pay:$87,300",% High Meaning:39%
+Rank:319,Major:Marketing Communication,Degree Type:Bachelors,"Early Career Pay:$43,600","Mid-Career Pay:$87,300",% High Meaning:40%
+Rank:321,Major:Geographic Information Systems (GIS) & Spatial Analysis,Degree Type:Bachelors,"Early Career Pay:$51,700","Mid-Career Pay:$87,200",% High Meaning:56%
+Rank:321,Major:Organizational Psychology,Degree Type:Bachelors,"Early Career Pay:$48,300","Mid-Career Pay:$87,200",% High Meaning:45%
+Rank:323,Major:European History,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$87,100",% High Meaning:50%
+Rank:324,Major:Urban & Regional Planning,Degree Type:Bachelors,"Early Career Pay:$47,500","Mid-Career Pay:$87,000",% High Meaning:59%
+Rank:325,Major:Real Estate Development,Degree Type:Bachelors,"Early Career Pay:$54,400","Mid-Career Pay:$86,800",% High Meaning:-
+Rank:326,Major:Applied Technology,Degree Type:Bachelors,"Early Career Pay:$52,900","Mid-Career Pay:$86,700",% High Meaning:60%
+Rank:326,Major:Entomology,Degree Type:Bachelors,"Early Career Pay:$44,000","Mid-Career Pay:$86,700",% High Meaning:-
+Rank:328,Major:Architectural Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$49,900","Mid-Career Pay:$86,600",% High Meaning:59%
+Rank:328,Major:Public Affairs,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$86,600",% High Meaning:53%
+Rank:330,Major:Entrepreneurship,Degree Type:Bachelors,"Early Career Pay:$51,400","Mid-Career Pay:$86,500",% High Meaning:45%
+Rank:331,Major:Business Management & Marketing,Degree Type:Bachelors,"Early Career Pay:$45,800","Mid-Career Pay:$86,400",% High Meaning:47%
+Rank:332,Major:Digital Arts,Degree Type:Bachelors,"Early Career Pay:$43,200","Mid-Career Pay:$86,300",% High Meaning:32%
+Rank:333,Major:Industrial Safety,Degree Type:Bachelors,"Early Career Pay:$53,200","Mid-Career Pay:$86,200",% High Meaning:78%
+Rank:333,Major:Logistics,Degree Type:Bachelors,"Early Career Pay:$54,800","Mid-Career Pay:$86,200",% High Meaning:37%
+Rank:335,Major:Hotel Management,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$86,100",% High Meaning:44%
+Rank:336,Major:Cell & Molecular Biology,Degree Type:Bachelors,"Early Career Pay:$48,900","Mid-Career Pay:$86,000",% High Meaning:66%
+Rank:336,Major:Global Business Management,Degree Type:Bachelors,"Early Career Pay:$53,200","Mid-Career Pay:$86,000",% High Meaning:51%
+Rank:338,Major:Technical Management,Degree Type:Bachelors,"Early Career Pay:$57,800","Mid-Career Pay:$85,900",% High Meaning:65%
+Rank:338,Major:Computer & Network Administration,Degree Type:Bachelors,"Early Career Pay:$54,100","Mid-Career Pay:$85,900",% High Meaning:47%
+Rank:340,Major:Police Science,Degree Type:Bachelors,"Early Career Pay:$53,400","Mid-Career Pay:$85,800",% High Meaning:-
+Rank:340,Major:Pre-law,Degree Type:Bachelors,"Early Career Pay:$44,700","Mid-Career Pay:$85,800",% High Meaning:46%
+Rank:342,Major:Business Communication,Degree Type:Bachelors,"Early Career Pay:$47,600","Mid-Career Pay:$85,600",% High Meaning:47%
+Rank:342,Major:Microbiology,Degree Type:Bachelors,"Early Career Pay:$46,200","Mid-Career Pay:$85,600",% High Meaning:68%
+Rank:342,Major:Professional Aeronautics,Degree Type:Bachelors,"Early Career Pay:$57,700","Mid-Career Pay:$85,600",% High Meaning:68%
+Rank:345,Major:Advertising & Promotion,Degree Type:Bachelors,"Early Career Pay:$42,400","Mid-Career Pay:$85,500",% High Meaning:45%
+Rank:346,Major:Network Systems Administration,Degree Type:Bachelors,"Early Career Pay:$53,500","Mid-Career Pay:$85,400",% High Meaning:50%
+Rank:347,Major:Construction Technology,Degree Type:Bachelors,"Early Career Pay:$55,500","Mid-Career Pay:$85,300",% High Meaning:47%
+Rank:348,Major:Electronic & Computer Technology,Degree Type:Bachelors,"Early Career Pay:$61,300","Mid-Career Pay:$85,000",% High Meaning:-
+Rank:348,Major:Marketing & Advertising,Degree Type:Bachelors,"Early Career Pay:$47,200","Mid-Career Pay:$85,000",% High Meaning:53%
+Rank:350,Major:Electronic Systems Technology (EST),Degree Type:Bachelors,"Early Career Pay:$61,800","Mid-Career Pay:$84,900",% High Meaning:-
+Rank:351,Major:International Studies,Degree Type:Bachelors,"Early Career Pay:$47,500","Mid-Career Pay:$84,800",% High Meaning:51%
+Rank:352,Major:Construction Engineering Technology,Degree Type:Bachelors,"Early Career Pay:$53,000","Mid-Career Pay:$84,700",% High Meaning:57%
+Rank:353,Major:Applied Science,Degree Type:Bachelors,"Early Career Pay:$44,100","Mid-Career Pay:$84,600",% High Meaning:56%
+Rank:354,Major:Accounting Information Systems,Degree Type:Bachelors,"Early Career Pay:$60,000","Mid-Career Pay:$84,500",% High Meaning:51%
+Rank:354,Major:Environmental Health,Degree Type:Bachelors,"Early Career Pay:$48,100","Mid-Career Pay:$84,500",% High Meaning:72%
+Rank:354,Major:Technology,Degree Type:Bachelors,"Early Career Pay:$53,400","Mid-Career Pay:$84,500",% High Meaning:64%
+Rank:357,Major:Biosystems Engineering,Degree Type:Bachelors,"Early Career Pay:$62,000","Mid-Career Pay:$84,200",% High Meaning:75%
+Rank:358,Major:Fashion Design,Degree Type:Bachelors,"Early Career Pay:$44,800","Mid-Career Pay:$84,100",% High Meaning:26%
+Rank:359,Major:Agribusiness Management,Degree Type:Bachelors,"Early Career Pay:$47,600","Mid-Career Pay:$84,000",% High Meaning:46%
+Rank:359,Major:German Language,Degree Type:Bachelors,"Early Career Pay:$48,200","Mid-Career Pay:$84,000",% High Meaning:41%
+Rank:361,Major:Professional Pilot Education,Degree Type:Bachelors,"Early Career Pay:$59,800","Mid-Career Pay:$83,900",% High Meaning:-
+Rank:361,Major:Textile Technology,Degree Type:Bachelors,"Early Career Pay:$51,500","Mid-Career Pay:$83,900",% High Meaning:31%
+Rank:363,Major:Manufacturing Systems,Degree Type:Bachelors,"Early Career Pay:$71,700","Mid-Career Pay:$83,600",% High Meaning:-
+Rank:364,Major:Diagnostic Medical Ultrasound,Degree Type:Bachelors,"Early Career Pay:$60,800","Mid-Career Pay:$83,500",% High Meaning:70%
+Rank:364,Major:Marketing & Mass Communications,Degree Type:Bachelors,"Early Career Pay:$41,800","Mid-Career Pay:$83,500",% High Meaning:40%
+Rank:366,Major:General Business,Degree Type:Bachelors,"Early Career Pay:$47,600","Mid-Career Pay:$83,400",% High Meaning:52%
+Rank:366,Major:Computer Graphics Technology (CGT),Degree Type:Bachelors,"Early Career Pay:$46,800","Mid-Career Pay:$83,400",% High Meaning:40%
+Rank:368,Major:Agricultural Systems Technology,Degree Type:Bachelors,"Early Career Pay:$54,000","Mid-Career Pay:$83,300",% High Meaning:58%
+Rank:368,Major:Health Care,Degree Type:Bachelors,"Early Career Pay:$41,700","Mid-Career Pay:$83,300",% High Meaning:71%
+Rank:368,Major:Hospital Administration,Degree Type:Bachelors,"Early Career Pay:$49,600","Mid-Career Pay:$83,300",% High Meaning:53%
+Rank:368,Major:Personal Financial Planning,Degree Type:Bachelors,"Early Career Pay:$51,200","Mid-Career Pay:$83,300",% High Meaning:59%
+Rank:372,Major:Business Technology Management,Degree Type:Bachelors,"Early Career Pay:$52,900","Mid-Career Pay:$83,200",% High Meaning:48%
+Rank:373,Major:Health Policy & Administration,Degree Type:Bachelors,"Early Career Pay:$48,300","Mid-Career Pay:$83,100",% High Meaning:65%
+Rank:374,Major:Math & Science,Degree Type:Bachelors,"Early Career Pay:$54,400","Mid-Career Pay:$82,900",% High Meaning:62%
+Rank:375,Major:Architectural Design,Degree Type:Bachelors,"Early Career Pay:$46,000","Mid-Career Pay:$82,800",% High Meaning:59%
+Rank:375,Major:Environmental Science,Degree Type:Bachelors,"Early Career Pay:$46,500","Mid-Career Pay:$82,800",% High Meaning:60%
+Rank:377,Major:Advertising & Marketing,Degree Type:Bachelors,"Early Career Pay:$46,300","Mid-Career Pay:$82,700",% High Meaning:38%
+Rank:377,Major:Animation,Degree Type:Bachelors,"Early Career Pay:$43,100","Mid-Career Pay:$82,700",% High Meaning:36%
+Rank:379,Major:General Science,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$82,600",% High Meaning:62%
+Rank:380,Major:Biology & Chemistry,Degree Type:Bachelors,"Early Career Pay:$46,700","Mid-Career Pay:$82,500",% High Meaning:66%
+Rank:381,Major:American Studies,Degree Type:Bachelors,"Early Career Pay:$49,000","Mid-Career Pay:$82,400",% High Meaning:50%
+Rank:381,Major:Product Design Engineering,Degree Type:Bachelors,"Early Career Pay:$61,500","Mid-Career Pay:$82,400",% High Meaning:39%
+Rank:383,Major:Aviation Maintenance Technology,Degree Type:Bachelors,"Early Career Pay:$49,800","Mid-Career Pay:$82,300",% High Meaning:58%
+Rank:383,Major:Film Studies,Degree Type:Bachelors,"Early Career Pay:$42,500","Mid-Career Pay:$82,300",% High Meaning:40%
+Rank:383,Major:Magazine Journalism,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$82,300",% High Meaning:26%
+Rank:386,Major:Web & Digital Media Development,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$82,200",% High Meaning:34%
+Rank:387,Major:Digital Media Design,Degree Type:Bachelors,"Early Career Pay:$45,200","Mid-Career Pay:$82,000",% High Meaning:36%
+Rank:387,Major:English Literature,Degree Type:Bachelors,"Early Career Pay:$45,400","Mid-Career Pay:$82,000",% High Meaning:45%
+Rank:387,Major:History & Politics,Degree Type:Bachelors,"Early Career Pay:$47,200","Mid-Career Pay:$82,000",% High Meaning:49%
+Rank:387,Major:Human Biology,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$82,000",% High Meaning:68%
+Rank:391,Major:Business Management & Human Resources Management (HRM),Degree Type:Bachelors,"Early Career Pay:$44,700","Mid-Career Pay:$81,900",% High Meaning:58%
+Rank:391,Major:Architectural Technology,Degree Type:Bachelors,"Early Career Pay:$44,700","Mid-Career Pay:$81,900",% High Meaning:56%
+Rank:391,Major:Design,Degree Type:Bachelors,"Early Career Pay:$49,400","Mid-Career Pay:$81,900",% High Meaning:41%
+Rank:391,Major:Philosophy & Religion,Degree Type:Bachelors,"Early Career Pay:$41,800","Mid-Career Pay:$81,900",% High Meaning:55%
+Rank:391,Major:Physiology,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$81,900",% High Meaning:62%
+Rank:396,Major:Business Administration,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$81,700",% High Meaning:50%
+Rank:396,Major:French Studies,Degree Type:Bachelors,"Early Career Pay:$49,500","Mid-Career Pay:$81,700",% High Meaning:53%
+Rank:396,Major:Land Surveying,Degree Type:Bachelors,"Early Career Pay:$48,700","Mid-Career Pay:$81,700",% High Meaning:56%
+Rank:399,Major:Management,Degree Type:Bachelors,"Early Career Pay:$49,000","Mid-Career Pay:$81,600",% High Meaning:48%
+Rank:400,Major:Geographic Information Systems (GIS),Degree Type:Bachelors,"Early Career Pay:$47,100","Mid-Career Pay:$81,500",% High Meaning:53%
+Rank:400,Major:Interactive Media Design,Degree Type:Bachelors,"Early Career Pay:$51,800","Mid-Career Pay:$81,500",% High Meaning:40%
+Rank:402,Major:Architectural Studies,Degree Type:Bachelors,"Early Career Pay:$43,100","Mid-Career Pay:$81,400",% High Meaning:42%
+Rank:403,Major:Business Administration & Accounting,Degree Type:Bachelors,"Early Career Pay:$50,300","Mid-Career Pay:$81,300",% High Meaning:53%
+Rank:403,Major:Industrial Arts,Degree Type:Bachelors,"Early Career Pay:$46,500","Mid-Career Pay:$81,300",% High Meaning:65%
+Rank:405,Major:Textile Design,Degree Type:Bachelors,"Early Career Pay:$47,400","Mid-Career Pay:$81,200",% High Meaning:40%
+Rank:406,Major:Textile & Apparel Studies,Degree Type:Bachelors,"Early Career Pay:$43,800","Mid-Career Pay:$81,100",% High Meaning:28%
+Rank:407,Major:Accounting & Management,Degree Type:Bachelors,"Early Career Pay:$49,700","Mid-Career Pay:$81,000",% High Meaning:53%
+Rank:408,Major:Nursing Science,Degree Type:Bachelors,"Early Career Pay:$63,700","Mid-Career Pay:$80,900",% High Meaning:84%
+Rank:409,Major:Business Management,Degree Type:Bachelors,"Early Career Pay:$48,800","Mid-Career Pay:$80,800",% High Meaning:50%
+Rank:409,Major:Linguistics,Degree Type:Bachelors,"Early Career Pay:$49,300","Mid-Career Pay:$80,800",% High Meaning:45%
+Rank:411,Major:Agronomy,Degree Type:Bachelors,"Early Career Pay:$49,100","Mid-Career Pay:$80,700",% High Meaning:64%
+Rank:411,Major:Corporate Communications,Degree Type:Bachelors,"Early Career Pay:$45,300","Mid-Career Pay:$80,700",% High Meaning:41%
+Rank:411,Major:Neuroscience,Degree Type:Bachelors,"Early Career Pay:$47,800","Mid-Career Pay:$80,700",% High Meaning:59%
+Rank:414,Major:Communication Studies & Journalism,Degree Type:Bachelors,"Early Career Pay:$42,500","Mid-Career Pay:$80,600",% High Meaning:49%
+Rank:415,Major:Sociology & Organizational Studies,Degree Type:Bachelors,"Early Career Pay:$48,200","Mid-Career Pay:$80,500",% High Meaning:54%
+Rank:416,Major:Nursing,Degree Type:Bachelors,"Early Career Pay:$61,700","Mid-Career Pay:$80,400",% High Meaning:84%
+Rank:417,Major:Toxicology,Degree Type:Bachelors,"Early Career Pay:$43,800","Mid-Career Pay:$80,300",% High Meaning:-
+Rank:417,Major:History,Degree Type:Bachelors,"Early Career Pay:$45,300","Mid-Career Pay:$80,300",% High Meaning:46%
+Rank:417,Major:Agricultural Science,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$80,300",% High Meaning:57%
+Rank:420,Major:Biology,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$80,200",% High Meaning:65%
+Rank:420,Major:Crop Science,Degree Type:Bachelors,"Early Career Pay:$45,200","Mid-Career Pay:$80,200",% High Meaning:67%
+Rank:420,Major:French Language,Degree Type:Bachelors,"Early Career Pay:$46,600","Mid-Career Pay:$80,200",% High Meaning:48%
+Rank:423,Major:Environmental Studies,Degree Type:Bachelors,"Early Career Pay:$45,900","Mid-Career Pay:$80,100",% High Meaning:59%
+Rank:423,Major:Management (MGT),Degree Type:Bachelors,"Early Career Pay:$44,800","Mid-Career Pay:$80,100",% High Meaning:57%
+Rank:425,Major:Communication,Degree Type:Bachelors,"Early Career Pay:$45,300","Mid-Career Pay:$79,900",% High Meaning:45%
+Rank:426,Major:General & Strategic Management,Degree Type:Bachelors,"Early Career Pay:$48,900","Mid-Career Pay:$79,800",% High Meaning:53%
+Rank:426,Major:Merchandising Management,Degree Type:Bachelors,"Early Career Pay:$44,200","Mid-Career Pay:$79,800",% High Meaning:35%
+Rank:428,Major:Dental Hygiene,Degree Type:Bachelors,"Early Career Pay:$70,400","Mid-Career Pay:$79,600",% High Meaning:79%
+Rank:428,Major:Hydrology,Degree Type:Bachelors,"Early Career Pay:$45,300","Mid-Career Pay:$79,600",% High Meaning:-
+Rank:430,Major:Global Business,Degree Type:Bachelors,"Early Career Pay:$53,200","Mid-Career Pay:$79,500",% High Meaning:37%
+Rank:430,Major:Retail & Consumer Science,Degree Type:Bachelors,"Early Career Pay:$48,500","Mid-Career Pay:$79,500",% High Meaning:34%
+Rank:430,Major:Literature,Degree Type:Bachelors,"Early Career Pay:$44,400","Mid-Career Pay:$79,500",% High Meaning:44%
+Rank:433,Major:Emergency Management,Degree Type:Bachelors,"Early Career Pay:$49,600","Mid-Career Pay:$79,400",% High Meaning:78%
+Rank:433,Major:Interpersonal & Organizational Communication,Degree Type:Bachelors,"Early Career Pay:$40,300","Mid-Career Pay:$79,400",% High Meaning:56%
+Rank:433,Major:Nuclear Medicine,Degree Type:Bachelors,"Early Career Pay:$57,800","Mid-Career Pay:$79,400",% High Meaning:84%
+Rank:436,Major:History & Political Science,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$79,300",% High Meaning:51%
+Rank:437,Major:Retail Merchandising,Degree Type:Bachelors,"Early Career Pay:$48,000","Mid-Career Pay:$79,200",% High Meaning:33%
+Rank:438,Major:Agriculture,Degree Type:Bachelors,"Early Career Pay:$45,300","Mid-Career Pay:$79,100",% High Meaning:61%
+Rank:438,Major:Environmental Management,Degree Type:Bachelors,"Early Career Pay:$47,300","Mid-Career Pay:$79,100",% High Meaning:61%
+Rank:438,Major:Professional & Technical Writing,Degree Type:Bachelors,"Early Career Pay:$46,000","Mid-Career Pay:$79,100",% High Meaning:46%
+Rank:441,Major:International Development Studies,Degree Type:Bachelors,"Early Career Pay:$45,500","Mid-Career Pay:$79,000",% High Meaning:64%
+Rank:441,Major:Workforce Education & Development,Degree Type:Bachelors,"Early Career Pay:$57,100","Mid-Career Pay:$79,000",% High Meaning:74%
+Rank:441,Major:Journalism & Mass Communication,Degree Type:Bachelors,"Early Career Pay:$43,700","Mid-Career Pay:$79,000",% High Meaning:45%
+Rank:444,Major:Pre-Medicine,Degree Type:Bachelors,"Early Career Pay:$48,400","Mid-Career Pay:$78,900",% High Meaning:65%
+Rank:445,Major:Bachelor in Science Nursing,Degree Type:Bachelors,"Early Career Pay:$61,000","Mid-Career Pay:$78,800",% High Meaning:81%
+Rank:445,Major:Network Technology,Degree Type:Bachelors,"Early Career Pay:$54,900","Mid-Career Pay:$78,800",% High Meaning:57%
+Rank:447,Major:Theatre & Drama Studies,Degree Type:Bachelors,"Early Career Pay:$41,500","Mid-Career Pay:$78,600",% High Meaning:49%
+Rank:448,Major:Law,Degree Type:Bachelors,"Early Career Pay:$51,900","Mid-Career Pay:$78,500",% High Meaning:51%
+Rank:449,Major:Law Enforcement,Degree Type:Bachelors,"Early Career Pay:$43,800","Mid-Career Pay:$78,400",% High Meaning:57%
+Rank:449,Major:Printing Technology,Degree Type:Bachelors,"Early Career Pay:$43,800","Mid-Career Pay:$78,400",% High Meaning:-
+Rank:449,Major:Public Relations & Communication,Degree Type:Bachelors,"Early Career Pay:$43,600","Mid-Career Pay:$78,400",% High Meaning:46%
+Rank:452,Major:Foreign Languages,Degree Type:Bachelors,"Early Career Pay:$47,800","Mid-Career Pay:$78,300",% High Meaning:57%
+Rank:452,Major:Interior Architecture,Degree Type:Bachelors,"Early Career Pay:$45,100","Mid-Career Pay:$78,300",% High Meaning:47%
+Rank:452,Major:Marine Science,Degree Type:Bachelors,"Early Career Pay:$44,000","Mid-Career Pay:$78,300",% High Meaning:58%
+Rank:452,Major:Public Management,Degree Type:Bachelors,"Early Career Pay:$47,800","Mid-Career Pay:$78,300",% High Meaning:60%
+Rank:452,Major:Web Development,Degree Type:Bachelors,"Early Career Pay:$54,100","Mid-Career Pay:$78,300",% High Meaning:53%
+Rank:457,Major:Journalism,Degree Type:Bachelors,"Early Career Pay:$43,500","Mid-Career Pay:$78,200",% High Meaning:45%
+Rank:457,Major:Landscape Architecture,Degree Type:Bachelors,"Early Career Pay:$49,000","Mid-Career Pay:$78,200",% High Meaning:67%
+Rank:457,Major:Environmental Geography,Degree Type:Bachelors,"Early Career Pay:$47,100","Mid-Career Pay:$78,200",% High Meaning:52%
+Rank:460,Major:Bachelor of Science in Nursing,Degree Type:Bachelors,"Early Career Pay:$60,700","Mid-Career Pay:$78,100",% High Meaning:83%
+Rank:461,Major:Digital Media,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$78,000",% High Meaning:39%
+Rank:461,Major:Welding Technology,Degree Type:Bachelors,"Early Career Pay:$46,100","Mid-Career Pay:$78,000",% High Meaning:-
+Rank:463,Major:Nutrition Science,Degree Type:Bachelors,"Early Career Pay:$45,900","Mid-Career Pay:$77,800",% High Meaning:67%
+Rank:464,Major:Accounting & Business,Degree Type:Bachelors,"Early Career Pay:$49,400","Mid-Career Pay:$77,600",% High Meaning:49%
+Rank:464,Major:Diagnostic Medical Sonography,Degree Type:Bachelors,"Early Career Pay:$62,200","Mid-Career Pay:$77,600",% High Meaning:85%
+Rank:466,Major:American History (United States),Degree Type:Bachelors,"Early Career Pay:$47,800","Mid-Career Pay:$77,500",% High Meaning:55%
+Rank:466,Major:Strategic Communication,Degree Type:Bachelors,"Early Career Pay:$44,600","Mid-Career Pay:$77,500",% High Meaning:42%
+Rank:468,Major:Public Relations (PR),Degree Type:Bachelors,"Early Career Pay:$43,000","Mid-Career Pay:$77,400",% High Meaning:43%
+Rank:469,Major:Natural Sciences,Degree Type:Bachelors,"Early Career Pay:$41,700","Mid-Career Pay:$77,300",% High Meaning:51%
+Rank:470,Major:International Affairs,Degree Type:Bachelors,"Early Career Pay:$49,100","Mid-Career Pay:$77,200",% High Meaning:53%
+Rank:470,Major:Drama,Degree Type:Bachelors,"Early Career Pay:$43,900","Mid-Career Pay:$77,200",% High Meaning:46%
+Rank:470,Major:Network Administration,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$77,200",% High Meaning:55%
+Rank:473,Major:Media Studies,Degree Type:Bachelors,"Early Career Pay:$48,300","Mid-Career Pay:$77,100",% High Meaning:36%
+Rank:474,Major:Organizational Development,Degree Type:Bachelors,"Early Career Pay:$51,600","Mid-Career Pay:$77,000",% High Meaning:52%
+Rank:474,Major:Writing,Degree Type:Bachelors,"Early Career Pay:$41,800","Mid-Career Pay:$77,000",% High Meaning:43%
+Rank:476,Major:Integrated Marketing Communications,Degree Type:Bachelors,"Early Career Pay:$44,600","Mid-Career Pay:$76,900",% High Meaning:34%
+Rank:477,Major:Crisis & Emergency Management,Degree Type:Bachelors,"Early Career Pay:$46,600","Mid-Career Pay:$76,800",% High Meaning:77%
+Rank:477,Major:Organizational Communication,Degree Type:Bachelors,"Early Career Pay:$44,000","Mid-Career Pay:$76,800",% High Meaning:49%
+Rank:477,Major:Retailing,Degree Type:Bachelors,"Early Career Pay:$48,900","Mid-Career Pay:$76,800",% High Meaning:27%
+Rank:477,Major:Speech Communication,Degree Type:Bachelors,"Early Career Pay:$43,900","Mid-Career Pay:$76,800",% High Meaning:55%
+Rank:481,Major:Allied Health,Degree Type:Bachelors,"Early Career Pay:$41,800","Mid-Career Pay:$76,700",% High Meaning:79%
+Rank:481,Major:Environmental Biology,Degree Type:Bachelors,"Early Career Pay:$43,000","Mid-Career Pay:$76,700",% High Meaning:66%
+Rank:481,Major:Nuclear Medicine Technology,Degree Type:Bachelors,"Early Career Pay:$58,900","Mid-Career Pay:$76,700",% High Meaning:81%
+Rank:484,Major:Apparel & Textile Manufacture,Degree Type:Bachelors,"Early Career Pay:$45,700","Mid-Career Pay:$76,600",% High Meaning:36%
+Rank:485,Major:Technology Management,Degree Type:Bachelors,"Early Career Pay:$53,900","Mid-Career Pay:$76,500",% High Meaning:45%
+Rank:486,Major:Film Production,Degree Type:Bachelors,"Early Career Pay:$42,700","Mid-Career Pay:$76,400",% High Meaning:32%
+Rank:486,Major:Security Management,Degree Type:Bachelors,"Early Career Pay:$44,800","Mid-Career Pay:$76,400",% High Meaning:-
+Rank:488,Major:Acting,Degree Type:Bachelors,"Early Career Pay:$42,200","Mid-Career Pay:$76,200",% High Meaning:48%
+Rank:488,Major:Broadcast & Cinematic Arts,Degree Type:Bachelors,"Early Career Pay:$41,900","Mid-Career Pay:$76,200",% High Meaning:41%
+Rank:488,Major:Business Management & Administration,Degree Type:Bachelors,"Early Career Pay:$48,600","Mid-Career Pay:$76,200",% High Meaning:53%
+Rank:488,Major:Marine Biology,Degree Type:Bachelors,"Early Career Pay:$40,800","Mid-Career Pay:$76,200",% High Meaning:61%
+Rank:488,Major:Professional Studies,Degree Type:Bachelors,"Early Career Pay:$42,100","Mid-Career Pay:$76,200",% High Meaning:64%
+Rank:488,Major:Romance Languages,Degree Type:Bachelors,"Early Career Pay:$50,300","Mid-Career Pay:$76,200",% High Meaning:54%
+Rank:494,Major:Computer Animation,Degree Type:Bachelors,"Early Career Pay:$44,500","Mid-Career Pay:$76,100",% High Meaning:31%
+Rank:495,Major:Cytotechnology,Degree Type:Bachelors,"Early Career Pay:$58,100","Mid-Career Pay:$76,000",% High Meaning:90%
+Rank:495,Major:Broadcast Journalism,Degree Type:Bachelors,"Early Career Pay:$41,100","Mid-Career Pay:$76,000",% High Meaning:49%
+Rank:495,Major:Geography,Degree Type:Bachelors,"Early Career Pay:$46,900","Mid-Career Pay:$76,000",% High Meaning:52%
+Rank:498,Major:Journalism & Electronic Media,Degree Type:Bachelors,"Early Career Pay:$42,100","Mid-Career Pay:$75,900",% High Meaning:50%
+Rank:499,Major:Automotive Technology,Degree Type:Bachelors,"Early Career Pay:$45,800","Mid-Career Pay:$75,800",% High Meaning:46%
+Rank:499,Major:Interpersonal Communications,Degree Type:Bachelors,"Early Career Pay:$43,100","Mid-Career Pay:$75,800",% High Meaning:48%
