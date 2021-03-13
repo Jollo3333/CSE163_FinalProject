@@ -22,7 +22,9 @@ def plot_employment_growth(data):
     plt.xticks(rotation=270)
     plt.title('Top 10 Careers with Largest Number of Job Growth')
     plt.ylabel('Number of Job Grow')
+    plt.tick_params(axis="x", labelsize=12)
     plt.tight_layout()
+    
 
     
 
@@ -79,6 +81,7 @@ def plot_job_outlook(data):
     plt.xticks(rotation=270)
     plt.title('Top 10 Careers with Highest Growth rate ')
     plt.ylabel('Growth Rate %')
+    plt.tick_params(axis="x", labelsize=12)
     plt.tight_layout()
     
     plt.savefig('Job_Outlook_growth_plot')
