@@ -16,12 +16,15 @@ def plot_employment_growth(data):
     job_name_employment = list(growing_job['occupation_name'])
     Employment_growth = list(growing_job['Employment Change, 2019-29'])
 
-    fig, ax = plt.subplots(1)
+    fig, ax = plt.subplots(figsize=(10,10))
 
     plt.bar(job_name_employment, Employment_growth)
     plt.xticks(rotation=270)
     plt.title('Top 10 Careers with Largest Number of Job Growth')
     plt.ylabel('Number of Job Grow')
+    plt.tight_layout()
+
+    
 
     plt.savefig('Employment_growth_plot')
 
@@ -36,12 +39,13 @@ def plot_employment_decline(data):
     Employment_decline = data['Employment Change, 2019-29'].tolist()
     Employment_decline = sorted(Employment_decline, reverse=True)
 
-    fig, ax = plt.subplots(1)
+    fig, ax = plt.subplots(figsize=(10,10))
 
     plt.bar(job_name_decline, declining_job['Employment Change, 2019-29'])
     plt.xticks(rotation=270)
     plt.title('Top 10 Careers with Largest Number of Job Decline')
     plt.ylabel('Number of Job Will Disappear')
+    plt.tight_layout()
 
     plt.savefig('Employment_decline_plot')
 
@@ -69,13 +73,14 @@ def plot_job_outlook(data):
     job_name = growing_ratio['occupation_name'].tolist()
     Job_outlook = growing_ratio['Job Outlook, 2019-29'].tolist()
 
-    fig, ax = plt.subplots(1)
+    fig, ax = plt.subplots(figsize=(10,10))
 
     plt.bar(job_name, Job_outlook)
     plt.xticks(rotation=270)
     plt.title('Top 10 Careers with Highest Growth rate ')
     plt.ylabel('Growth Rate %')
-
+    plt.tight_layout()
+    
     plt.savefig('Job_Outlook_growth_plot')
 
 
