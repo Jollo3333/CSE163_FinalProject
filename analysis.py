@@ -1,3 +1,9 @@
+"""
+This file contains functions that analyze and plot
+the data in the PayScale and BLS datasets
+"""
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -17,7 +23,7 @@ def plot_employment_growth(data):
     job_name_employment = list(growing_job['occupation_name'])
     Employment_growth = list(growing_job['Employment Change, 2019-29'])
 
-    fig, ax = plt.subplots(figsize=(10,10))
+    fig, ax = plt.subplots(figsize=(10, 10))
 
     plt.bar(job_name_employment, Employment_growth)
     plt.xticks(rotation=270)
@@ -25,10 +31,6 @@ def plot_employment_growth(data):
     plt.ylabel('Number of Job Grow')
     plt.tick_params(axis="x", labelsize=12)
     plt.tight_layout()
-    
-
-    
-
     plt.savefig('Employment_growth_plot')
 
 
@@ -42,7 +44,7 @@ def plot_employment_decline(data):
     Employment_decline = data['Employment Change, 2019-29'].tolist()
     Employment_decline = sorted(Employment_decline, reverse=True)
 
-    fig, ax = plt.subplots(figsize=(10,10))
+    fig, ax = plt.subplots(figsize=(10, 10))
 
     plt.bar(job_name_decline, declining_job['Employment Change, 2019-29'])
     plt.xticks(rotation=270)
@@ -76,7 +78,7 @@ def plot_job_outlook(data):
     job_name = growing_ratio['occupation_name'].tolist()
     Job_outlook = growing_ratio['Job Outlook, 2019-29'].tolist()
 
-    fig, ax = plt.subplots(figsize=(10,10))
+    fig, ax = plt.subplots(figsize=(10, 10))
 
     plt.bar(job_name, Job_outlook)
     plt.xticks(rotation=270)
@@ -84,7 +86,7 @@ def plot_job_outlook(data):
     plt.ylabel('Growth Rate %')
     plt.tick_params(axis="x", labelsize=12)
     plt.tight_layout()
-    
+
     plt.savefig('Job_Outlook_growth_plot')
 
 
@@ -109,10 +111,12 @@ def clean_data_1(data):
     data['Early Career Pay'] = data['Early Career Pay'].map(
                                                 lambda x: x.lstrip(
                                                     'Early Career Pay:$'))
+    data['Early Career Pay'] = data['Early Career Pay'].str.replace(',', '')
     data['Early Career Pay'] = pd.to_numeric(data['Early Career Pay'])
     data['Mid-Career Pay'] = data['Mid-Career Pay'].map(
                                                 lambda x: x.lstrip(
                                                     'Mid-Career Pay:$'))
+    data['Mid-Career Pay'] = data['Mid-Career Pay'].str.replace(',', '')
     data['Mid-Career Pay'] = pd.to_numeric(data['Mid-Career Pay'])
     data['Early Career Pay Rank'] = data['Early Career Pay'].rank(method='max')
     data['Mid-Career Pay Rank'] = data['Mid-Career Pay'].rank(method='max')
@@ -169,7 +173,7 @@ def top_10(data):
     ax.set_xticklabels(top_10_labels)
     plt.legend(bbox_to_anchor=(1.05, 1.0), loc='upper left')
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Majors.png')
 
 
 def bottom_10(data):
@@ -196,9 +200,10 @@ def bottom_10(data):
     ax.set_xticklabels(bottom_10_labels)
     ax.legend()
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Lowest_Paying_Majors.png')
 
 # Question 2
+
 
 def clean_data_2(data):
     """
@@ -245,7 +250,7 @@ def bach_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(bach_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Bach.png')
 
 
 def master_10(data):
@@ -273,7 +278,7 @@ def master_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(master_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Master.png')
 
 
 def doct_10(data):
@@ -302,8 +307,39 @@ def doct_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(doct_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Doct.png')
 
+
+# Question 3: What are the average salaries for different levels of education?
+def get_average_salary_education_level(data):
+    """
+    This method takes in the cleaned occupation dataset that includes
+    information about the 2019 Median Pay for different levels of education
+    and calculates the average salary for those levels of education
+    """
+    data = \
+        data.groupby('Typical Entry-Level Education')['2019 Median Pay'].mean()
+
+    return data
+
+
+def plot_average_salary_education_level(data):
+    """
+    This method takes in the data calculated by
+    get_average_salary_education_level and plots into a bar chart.
+    """
+    labels = ["Associate's\n degree", "Bachelor's\n degree",
+              "Doctoral\n or professional\ndegree",
+              "High school\n diploma\n or equivalent",
+              "Master's\n degree", "No formal\n education\n credential",
+              "Postsecondary\n nondegree\n award", "Vocational\n Education",
+              "Some college,\n no degree"]
+    plt.figure(figsize=(10, 10))
+    plt.bar(labels, data.tolist(), width=0.25)
+    plt.title('Average Salaries for Different Education Levels')
+    plt.ylabel('Mean Annual Salary')
+    plt.xticks(rotation=45)
+    plt.savefig('average_salary_education.png')
 
 
 def main():
@@ -313,7 +349,8 @@ def main():
     plot_employment_growth(data_question_1)
     plot_job_outlook(data_question_1)
 
-    data_question_4 = pd.read_csv('Final Project Dataset.csv', encoding='cp1252')
+    data_question_4 = pd.read_csv('Final Project Dataset.csv',
+                                  encoding='cp1252')
     data_question_4 = clean_data_1(data_question_4)
     data_question_4 = uw('UW Majors.txt', data_question_4)
     top_10(data_question_4)
@@ -324,6 +361,9 @@ def main():
     bach_10(data_question_2)
     master_10(data_question_2)
     doct_10(data_question_2)
+
+    average_salary_data = get_average_salary_education_level(data_question_2)
+    plot_average_salary_education_level(average_salary_data)
 
 
 if __name__ == '__main__':
