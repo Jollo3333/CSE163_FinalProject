@@ -103,6 +103,7 @@ def clean_data_1(data):
     the Early Career Pay, the Mid Career Pay, and
     the sum of these two scores in three new columns.
     """
+    data = data.dropna()
     data['Major'] = data['Major'].str.replace('Major:', '')
     data['Major'] = data['Major'].str.replace(r' \(.*\)', '')
     data['Early Career Pay'] = data['Early Career Pay'].map(
@@ -116,7 +117,7 @@ def clean_data_1(data):
     data['Early Career Pay Rank'] = data['Early Career Pay'].rank(method='max')
     data['Mid-Career Pay Rank'] = data['Mid-Career Pay'].rank(method='max')
     sum_rankings = data['Early Career Pay Rank'] + data['Mid-Career Pay Rank']
-    data['Resultant Score'] = sum_rankings
+    data['Resultant Score'] = sum_rankings 
     return data
 
 
