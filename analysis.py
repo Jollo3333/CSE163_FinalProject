@@ -172,7 +172,7 @@ def top_10(data):
     ax.set_xticklabels(top_10_labels)
     plt.legend(bbox_to_anchor=(1.05, 1.0), loc='upper left')
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Majors.png')
 
 
 def bottom_10(data):
@@ -199,7 +199,7 @@ def bottom_10(data):
     ax.set_xticklabels(bottom_10_labels)
     ax.legend()
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Lowest_Paying_Majors.png')
 
 # Question 2
 
@@ -249,7 +249,7 @@ def bach_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(bach_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Bach.png')
 
 
 def master_10(data):
@@ -277,7 +277,7 @@ def master_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(master_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Master.png')
 
 
 def doct_10(data):
@@ -306,7 +306,7 @@ def doct_10(data):
     ax.set_xticks(x)
     ax.set_xticklabels(doct_10_labels)
     plt.xticks(rotation=-90)
-    plt.show()
+    plt.savefig('Highest_Paying_Doct.png')
 
 
 # Question 3: What are the average salaries for different levels of education?
