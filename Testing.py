@@ -1,3 +1,8 @@
+"""
+This file contains tests for functions in analysis.py
+"""
+
+
 from cse163_utils import assert_equals
 import analysis
 import pandas as pd
@@ -67,21 +72,36 @@ def test_uw(data):
     assert_equals(expect_uw_majors, given['Major'].tolist())
 
 
+def test_get_average_salary_education_level(data):
+    """
+    This function tests get_average_salary_education_level
+    """
+    expected = [35320, 73300, 95460, 34990, 84950, 39790]
+    given = analysis.get_average_salary_education_level(data)
+    assert_equals(expected, given.tolist())
+
+
 def main():
     # Question 1 testing
     data_question_1 = pd.read_csv('./occupation_data.csv')
 
     # pre data wrangling for the testing, delete all strings
     # in Job Outlook, 2019-29 column
-    data_question_1['Job Outlook, 2019-29'] = data_question_1['Job Outlook, '
-                                        '2019-29'].str.replace(r' \(.*\)', '')
-    data_question_1['Job Outlook, 2019-29'] = data_question_1['Job Outlook, '
-                                        '2019-29'].str.replace('%', '')
-    data_question_1['Job Outlook, 2019-29'] = pd.to_numeric(data_question_1['Job Outlook, 2019-29'])
+    data_question_1['Job Outlook, 2019-29'] = \
+        data_question_1['Job Outlook, 2019-29'].str.replace(r' \(.*\)', '')
+    data_question_1['Job Outlook, 2019-29'] = \
+        data_question_1['Job Outlook, 2019-29'].str.replace('%', '')
+    data_question_1['Job Outlook, 2019-29'] = \
+        pd.to_numeric(data_question_1['Job Outlook, 2019-29'])
 
     test_fastest_growing_job(data_question_1)
     test_employment_declining(data_question_1)
     test_employment_growing(data_question_1)
+
+    # Question 3 testing
+    test_data_3 = analysis.clean_data_2(pd.read_csv('occupation_test2.csv',
+                                                    encoding='cp1252'))
+    test_get_average_salary_education_level(test_data_3)
 
     # Question 2/4 testing
     data_question_4 = pd.read_csv('Payscale Test.csv', encoding='cp1252')
