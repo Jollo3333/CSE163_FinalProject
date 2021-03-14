@@ -109,6 +109,52 @@ We mainly used mostly online resources to help us find the methods that we need 
 
 - Question 1 Results:
 
+![](Employment_growth_plot.png)
+
+*For the fasting growing occupation, according to the employment change 2019-29,  careers besides the IT industry that will see a huge growth in opportunities are health and food related professions, such as cooks, home health and personal care aides. One of the reasons may be the growing number of elder people as baby boomers are in their mid 70s. Other jobs such as food hosts, and food servers are also in demand. Interestingly, but not surprisingly, IT jobs such as software developers, and analysts are also on a high growing trajectory.*
+
+
+![](Employment_decline_plot.png)
+*For the fasting declining occupation, according to the employment change 2019-29, not surprisingly, they are mostly jobs that can be easily replaced by AI and algorithm based applications. Occupations such as legal secretaries, administrative assistants, and executive secretaries are declining dramatically. One cause can be the amount of work required for ten secretaries to do in the past, now can be done with just one secretary who knows how to operate software applications. Other occupations such as cashier and machine assemblers are also declining rapidly. Since most of these occupations can be replaced by machine with more efficient and longer working hours, in the next 10 years, we expect to see more than two hundred thousand jobs will be lost.*
+
+
+![](Job_Outlook_growth_plot.png)
+*Compared to employment change 2019-29, job outlook 2019-29 emphasizes more on the rate of occupation growth within the existing number of jobs. Somes of the occupations with the fastest growing rate are wind turbine service technicians and solar photovoltaic installers. One reason can be the growing public concern for renewable energy and policies that may affect the oil industry. Other occupations that have very high growing rates are health related practitioners such as nurse midwives and nurse anesthetists. One interesting point is the growth rate of mathematicians and statisticians.  They both have a growth rate around 40%, meaning from 2019 to 2029, we expect to see the number of job opportunities for these occupations to increase to 140%. In the world where data is such an important method to understand patterns and make decisions, mathematicians and staticison are undoubtedly in high demand.*
+
+- Question 2 Results:
+
+![](Highest_Paying_Bach.png)
+![](Highest_Paying_Doct.png)
+![](Highest_Paying_Master.png)
+
+*As a summary, the occupations that are paid the highest across all educational levels commonly revolve around an area in technology or healthcare. For the Bachelor’s degree, most of the high-paying jobs is a manager position while for Master’s and Doctorate or Professional degree, most of these occupations involve being appointed as a medical doctor or a nurse. This data actually matches the reality of what is currently occurring at the moment. In pandemic times, people are working or operating computers to get tasks accomplished while medical treatment is a clear necessity. There’s also some economic occupations that are currently stated in the visualization. It’s probably because of the current economic downturns that need the attention of economic or financial experts.*
+
+- Question 3 Results:
+
+![](average_salary_education.png)
+*At a first glance, nothing about these results stand out. As one would expect, the level of education with the highest mean annual salary is indeed the highest level of education, that being a doctoral or professional degree. However, after close evaluation, there are a couple interesting takeaways.*
+
+*First, the difference between the mean annual salary of a bachelor’s degree and a master’s degree is closer than what we expected. The mean annual salary for a bachelor’s degree is $79,413 and $84,965 for a master’s degree. Considering the opportunity cost of attending graduate school instead of entering the workforce earlier, this may feel like insufficient compensation. However, this isn’t to discourage anyone from pursuing a master’s degree. In many cases, completing a graduate degree gives you the skills required for a more specialized position. While the data says that this more specialized position may not pay that much more, it can compensate in other ways, such as being  a more satisfying and engaging occupation.*
+
+*The second interesting result is that the education level with the lowest mean annual salary is some college, no degree. This probably says more about how BLS categorizes “Typical Entry-Level Education” than it does about the reality of that level of education. Classifying an occupation’s typical entry-level education as “some college, no degree” seems like a misnomer. It seems more accurate to say that the entry-level education of those occupations would also be high school diploma or equivalent.*
+
+- Question 4 Results:
+
+![](Highest_Paying_Majors.png)
+![](Lowest_Paying_Majors.png)
+
+[STEM Class Shrink at UW](https://www.seattletimes.com/seattle-news/as-stem-majors-soar-at-uw-interest-in-humanities-shrinks-a-potentially-costly-loss/)
+
+*According to the dataset in Payscale, by running through all known majors at the UW, the highest paying majors are all STEM fields, the majority of them being related to engineering. On the other hand, the lowest paying majors mostly involve fields in the humanities. The only outlier being “Marine Biology”. Surprisingly, this dataset has enormous consequences on the attendance rates of different majors at the UW and colleges nationwide. As a result of the common belief that a STEM degree is a very prosperous and resilient job to have out there given the recent recessions in the recent years, UW has seen a major boom in undergraduates attending STEM degrees. This is completely evident based on our bar plot shown above. Unfortunately, the cost of earning a STEM degree is more expensive than a non-STEM one. This has disrupted the UW’s main goal of keeping college credit as low as possible. Since a STEM degree requires expensive, high-tech equipment, college credit has to increase in order to compensate for the growth in STEM. This is probably one of the reasons for why colleges here at the UW and nationwide are getting more and more expensive over time.*
+
+
+
+
+
+
+
+
+
 
 
 
