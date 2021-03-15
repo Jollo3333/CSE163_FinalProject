@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 # Growing Careers and Majors in the Upcoming Decades 
 
 ## Authors:
@@ -7,7 +13,7 @@
 
 ## Research Questions:
 
-### What are the fastest growing and declining occupations in the next coming years ?
+### What are the fastest growing and declining occupations in the next coming years?
 - The percentage growth of all occupations/ majors statistically predict the ongoing changes in the job market for the next upcoming decade. Thus, one should figure out the benchmark/ foundation for finding out what prospects will be available in the next few years.
 - The fasting growing occupations include jobs in fields such as health, software programming and renewable energy. The fastest declining occupation are mostly works that can be replaced by machines such as secretaries, and machine assemblers. 
 
