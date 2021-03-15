@@ -173,6 +173,7 @@ def top_10(data):
     ax.set_xticklabels(top_10_labels)
     plt.legend(bbox_to_anchor=(1.05, 1.0), loc='upper left')
     plt.xticks(rotation=-90)
+    plt.tight_layout()
     plt.savefig('Highest_Paying_Majors')
 
 
@@ -191,7 +192,7 @@ def bottom_10(data):
     bottom_10_labels = bottom_10['Major'].tolist()
     x = np.arange(len(bottom_10_labels))
     width = 0.35
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(15, 20))
     ax.bar(x - width/2, bottom_10_e, width, label='Early')
     ax.bar(x + width/2, bottom_10_m, width, label='Mid')
     ax.set_ylabel('Pay Amount')
@@ -200,6 +201,7 @@ def bottom_10(data):
     ax.set_xticklabels(bottom_10_labels)
     ax.legend()
     plt.xticks(rotation=-90)
+    plt.tight_layout()
     plt.savefig('Lowest_Paying_Majors')
 
 # Question 2
@@ -243,13 +245,14 @@ def bach_10(data):
     bach_10_labels = highest_paying_bach['occupation_name'].tolist()
     x = np.arange(len(bach_10_labels))
     width = 0.35
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(30, 30))
     ax.bar(x, bach_10, width)
     ax.set_ylabel('Mean Annual Salary')
     ax.set_title('Highest Paying Bachelor\'s Degree Occupations')
     ax.set_xticks(x)
     ax.set_xticklabels(bach_10_labels)
     plt.xticks(rotation=-90)
+    plt.tight_layout()
     plt.savefig('Highest_Paying_Bach')
 
 
@@ -271,13 +274,14 @@ def master_10(data):
     master_10_labels = highest_paying_master['occupation_name'].tolist()
     x = np.arange(len(master_10_labels))
     width = 0.35
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(15, 20))
     ax.bar(x, master_10, width)
     ax.set_ylabel('Mean Annual Salary')
     ax.set_title('Highest Paying Master\'s Degree Occupations')
     ax.set_xticks(x)
     ax.set_xticklabels(master_10_labels)
     plt.xticks(rotation=-90)
+    plt.tight_layout()
     plt.savefig('Highest_Paying_Master')
 
 
@@ -298,6 +302,12 @@ def doct_10(data):
     highest_paying_doct = highest_paying_doct.head(10)
     doct_10 = highest_paying_doct['2019 Median Pay'].tolist()
     doct_10_labels = highest_paying_doct['occupation_name'].tolist()
+    labels = ['Pediatrician', 'Physcian',
+              'Family Medicine\n Physician',
+              'Psychiatrists', 'Obstetricians\n and gynecologist',
+              'Surgeons\n except ophthalmologist',
+              'Anesthesiologists', 'General internal\n medicine physician',
+              'Dentists', 'Oral and maxillofacial surgeons']
     x = np.arange(len(doct_10_labels))
     width = 0.35
     fig, ax = plt.subplots()
@@ -305,8 +315,9 @@ def doct_10(data):
     ax.set_ylabel('Mean Annual Salary')
     ax.set_title('Highest Paying Doctorate or Professional Degree Occupations')
     ax.set_xticks(x)
-    ax.set_xticklabels(doct_10_labels)
+    ax.set_xticklabels(labels)
     plt.xticks(rotation=-90)
+    plt.tight_layout()
     plt.savefig('Highest_Paying_Doct')
 
 
