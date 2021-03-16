@@ -2,6 +2,12 @@
 
 **This file contains instruction on how to operate our code**
 
+- Before running any code make sure you have the following libraries installed:
+    - BeautifulSoup
+    - html5lib
+    - pandas
+    - numpy
+
 - within the analysis.py file, import :
     1. pandas as pd
     2. numpy as np
